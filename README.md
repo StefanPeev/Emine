@@ -32,7 +32,7 @@ Projects using Emine
 ----------------------
 
 Have you made something nice with Emine?  
-[Please share it in Discussions panel "Show and tell"! →](https://github.com/StefanPeev/Ezerovo/discussions/categories/show-and-tell).  
+[Please share it in Discussions panel "Show and tell"! →](https://github.com/StefanPeev/Emine/discussions/1).  
   
 Localfonts projects
 -------------------
