@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis" format="2">
+  <advance width="666"/>
+  <unicode hex="0178"/>
+  <outline>
+    <contour>
+      <point x="343" y="0" type="line"/>
+      <point x="343" y="297" type="line"/>
+      <point x="653" y="730" type="line"/>
+      <point x="628" y="730" type="line"/>
+      <point x="334" y="318" type="line"/>
+      <point x="332" y="318" type="line"/>
+      <point x="38" y="730" type="line"/>
+      <point x="13" y="730" type="line"/>
+      <point x="323" y="297" type="line"/>
+      <point x="323" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="483" y="845" type="line"/>
+      <point x="483" y="905" type="line"/>
+      <point x="423" y="905" type="line"/>
+      <point x="423" y="845" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="845" type="line"/>
+      <point x="243" y="905" type="line"/>
+      <point x="183" y="905" type="line"/>
+      <point x="183" y="845" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f3c066e21335df595f49091f0098db8d6cfda53aa2fa7c95120c154776b90fea08c010e4c85f73fb462eb39ceebeab3fc191d7ed9af08bfae61a4d094873770f</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 730 -20</string>
+          <string>hstem 845 60</string>
+          <string>vstem 183 60</string>
+          <string>vstem 323 20</string>
+          <string>vstem 423 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hardcyr" format="2">
+  <advance width="711"/>
+  <unicode hex="042A"/>
+  <outline>
+    <component base="uni042C" xOffset="60"/>
+    <contour>
+      <point x="0" y="565" type="line"/>
+      <point x="240" y="565" type="line"/>
+      <point x="240" y="730" type="line"/>
+      <point x="0" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=H+60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni042C</string>
+  </dict>
+  </lib>
+</glyph>

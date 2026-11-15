@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ECC" format="2">
+  <advance width="850"/>
+  <unicode hex="1ECC"/>
+  <outline>
+    <contour>
+      <point x="425" y="-10" type="curve" smooth="yes"/>
+      <point x="645" y="-10"/>
+      <point x="795" y="142"/>
+      <point x="795" y="365" type="curve" smooth="yes"/>
+      <point x="795" y="588"/>
+      <point x="645" y="740"/>
+      <point x="425" y="740" type="curve" smooth="yes"/>
+      <point x="205" y="740"/>
+      <point x="55" y="588"/>
+      <point x="55" y="365" type="curve" smooth="yes"/>
+      <point x="55" y="142"/>
+      <point x="205" y="-10"/>
+    </contour>
+    <contour>
+      <point x="425" y="10" type="curve" smooth="yes"/>
+      <point x="216" y="10"/>
+      <point x="75" y="153"/>
+      <point x="75" y="365" type="curve" smooth="yes"/>
+      <point x="75" y="577"/>
+      <point x="216" y="720"/>
+      <point x="425" y="720" type="curve" smooth="yes"/>
+      <point x="634" y="720"/>
+      <point x="775" y="577"/>
+      <point x="775" y="365" type="curve" smooth="yes"/>
+      <point x="775" y="153"/>
+      <point x="634" y="10"/>
+    </contour>
+    <contour>
+      <point x="455" y="-175" type="line"/>
+      <point x="455" y="-115" type="line"/>
+      <point x="395" y="-115" type="line"/>
+      <point x="395" y="-175" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7fc2fbeff29d9b5c9155604bb10e179812676fa554d340e36b6a9ec81cbee84e626756f6192c39b1c4cd53d43bd37a7b7a162f39535f680c6cb49cf2779c8dcd</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -175 60</string>
+          <string>hstem -10 20</string>
+          <string>hstem 720 20</string>
+          <string>vstem 55 20</string>
+          <string>vstem 395 60</string>
+          <string>vstem 775 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

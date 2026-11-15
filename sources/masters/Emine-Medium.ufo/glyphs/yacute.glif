@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="2">
+  <advance width="543"/>
+  <unicode hex="00FD"/>
+  <outline>
+    <contour>
+      <point x="240" y="-210" type="line"/>
+      <point x="538" y="520" type="line"/>
+      <point x="422" y="520" type="line"/>
+      <point x="271" y="118" type="line"/>
+      <point x="269" y="118" type="line"/>
+      <point x="124" y="520" type="line"/>
+      <point x="8" y="519" type="line"/>
+      <point x="216" y="5" type="line"/>
+      <point x="126" y="-210" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="790" type="line"/>
+      <point x="309" y="790" type="line"/>
+      <point x="218" y="570" type="line"/>
+      <point x="328" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w543m240,-210l538,520l422,520l271,118l269,118l124,520l8,519l216,5l126,-210m449,790l309,790l218,570l328,570</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 520 -20</string>
+          <string>hstem 570 220</string>
+          <string>vstem 8 530</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uring" format="2">
+  <advance width="734"/>
+  <unicode hex="016E"/>
+  <outline>
+    <contour>
+      <point x="366" y="-10" type="curve" smooth="yes"/>
+      <point x="556" y="-10"/>
+      <point x="656" y="80"/>
+      <point x="656" y="250" type="curve" smooth="yes"/>
+      <point x="656" y="730" type="line"/>
+      <point x="546" y="730" type="line"/>
+      <point x="546" y="270" type="line" smooth="yes"/>
+      <point x="546" y="145"/>
+      <point x="491" y="90"/>
+      <point x="366" y="90" type="curve" smooth="yes"/>
+      <point x="241" y="90"/>
+      <point x="186" y="145"/>
+      <point x="186" y="270" type="curve" smooth="yes"/>
+      <point x="186" y="730" type="line"/>
+      <point x="76" y="730" type="line"/>
+      <point x="76" y="250" type="line" smooth="yes"/>
+      <point x="76" y="80"/>
+      <point x="176" y="-10"/>
+    </contour>
+    <contour>
+      <point x="367" y="795" type="curve" smooth="yes"/>
+      <point x="450" y="795"/>
+      <point x="517" y="862"/>
+      <point x="517" y="945" type="curve" smooth="yes"/>
+      <point x="517" y="1028"/>
+      <point x="450" y="1095"/>
+      <point x="367" y="1095" type="curve" smooth="yes"/>
+      <point x="284" y="1095"/>
+      <point x="217" y="1028"/>
+      <point x="217" y="945" type="curve" smooth="yes"/>
+      <point x="217" y="862"/>
+      <point x="284" y="795"/>
+    </contour>
+    <contour>
+      <point x="367" y="880" type="curve" smooth="yes"/>
+      <point x="331" y="880"/>
+      <point x="302" y="909"/>
+      <point x="302" y="945" type="curve" smooth="yes"/>
+      <point x="302" y="981"/>
+      <point x="331" y="1010"/>
+      <point x="367" y="1010" type="curve" smooth="yes"/>
+      <point x="403" y="1010"/>
+      <point x="432" y="981"/>
+      <point x="432" y="945" type="curve" smooth="yes"/>
+      <point x="432" y="909"/>
+      <point x="403" y="880"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d54bc14be6cbb517f04d469120568e65d297710870539aae0d3e31f3fcdd9843f4dbdd7af3d1c60e8cc1e36394c659b52f6463578492a94463ad4da425d75472</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 100</string>
+          <string>hstem 730 -20</string>
+          <string>hstem 795 85</string>
+          <string>hstem 1010 85</string>
+          <string>vstem 76 110</string>
+          <string>vstem 217 85</string>
+          <string>vstem 432 85</string>
+          <string>vstem 546 110</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

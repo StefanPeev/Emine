@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Elcyr.loclBGR" format="2">
+  <advance width="691"/>
+  <outline>
+    <component base="Elcyr"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Elcyr</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dcaron" format="2">
+  <advance width="708"/>
+  <unicode hex="010E"/>
+  <outline>
+    <contour>
+      <point x="285" y="0" type="line" smooth="yes"/>
+      <point x="542" y="0"/>
+      <point x="665" y="118"/>
+      <point x="665" y="365" type="curve" smooth="yes"/>
+      <point x="665" y="612"/>
+      <point x="542" y="730"/>
+      <point x="285" y="730" type="curve" smooth="yes"/>
+      <point x="85" y="730" type="line"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="195" y="100" type="line"/>
+      <point x="195" y="630" type="line"/>
+      <point x="292" y="630" type="line" smooth="yes"/>
+      <point x="474" y="630"/>
+      <point x="553" y="550"/>
+      <point x="553" y="365" type="curve" smooth="yes"/>
+      <point x="553" y="180"/>
+      <point x="474" y="100"/>
+      <point x="292" y="100" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="115" y="1000" type="line"/>
+      <point x="269" y="780" type="line"/>
+      <point x="402" y="780" type="line"/>
+      <point x="557" y="1000" type="line"/>
+      <point x="427" y="1000" type="line"/>
+      <point x="337" y="860" type="line"/>
+      <point x="335" y="860" type="line"/>
+      <point x="245" y="1000" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>c4833a58ab5bcaa99c2dfa51a19955c17803bfba35257189670a8cf7a3513e3ef9f3088a70b70b73365f88550b7d8e6034252698a831dfe240ea668af2f72f80</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 100</string>
+          <string>hstem 630 100</string>
+          <string>hstem 780 80</string>
+          <string>hstem 780 220</string>
+          <string>hstem 860 -20</string>
+          <string>vstem 85 110</string>
+          <string>vstem 553 112</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

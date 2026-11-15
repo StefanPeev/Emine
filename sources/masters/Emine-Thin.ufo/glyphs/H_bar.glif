@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="2">
+  <advance width="810"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="775" y="586" type="line"/>
+      <point x="775" y="606" type="line"/>
+      <point x="655" y="606" type="line"/>
+      <point x="655" y="730" type="line"/>
+      <point x="635" y="730" type="line"/>
+      <point x="635" y="606" type="line"/>
+      <point x="165" y="606" type="line"/>
+      <point x="165" y="730" type="line"/>
+      <point x="145" y="730" type="line"/>
+      <point x="145" y="606" type="line"/>
+      <point x="35" y="606" type="line"/>
+      <point x="35" y="586" type="line"/>
+      <point x="145" y="586" type="line"/>
+      <point x="145" y="0" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="165" y="380" type="line"/>
+      <point x="635" y="380" type="line"/>
+      <point x="635" y="0" type="line"/>
+      <point x="655" y="0" type="line"/>
+      <point x="655" y="586" type="line"/>
+    </contour>
+    <contour>
+      <point x="165" y="400" type="line"/>
+      <point x="165" y="586" type="line"/>
+      <point x="635" y="586" type="line"/>
+      <point x="635" y="400" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>0fe5f5719be235bb6f2714d819411f4117fb7cc7fec277982f1ffb44bbbf1939caae508e27e3ac3301594582461c4b8c889ad06a8bd067a904352ce2bc9b7f70</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 380 20</string>
+          <string>hstem 586 20</string>
+          <string>hstem 586 144</string>
+          <string>vstem 145 20</string>
+          <string>vstem 635 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

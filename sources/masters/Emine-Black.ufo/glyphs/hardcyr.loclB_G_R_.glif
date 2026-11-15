@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hardcyr.loclBGR" format="2">
+  <advance width="588"/>
+  <outline>
+    <component base="hardcyr" xOffset="-20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>hardcyr</string>
+  </dict>
+  </lib>
+</glyph>

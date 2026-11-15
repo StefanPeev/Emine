@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron" format="2">
+  <advance width="670"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="391" y="0" type="line"/>
+      <point x="391" y="630" type="line"/>
+      <point x="639" y="630" type="line"/>
+      <point x="639" y="730" type="line"/>
+      <point x="29" y="730" type="line"/>
+      <point x="29" y="630" type="line"/>
+      <point x="277" y="630" type="line"/>
+      <point x="277" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="1000" type="line"/>
+      <point x="268" y="780" type="line"/>
+      <point x="401" y="780" type="line"/>
+      <point x="556" y="1000" type="line"/>
+      <point x="426" y="1000" type="line"/>
+      <point x="336" y="860" type="line"/>
+      <point x="334" y="860" type="line"/>
+      <point x="244" y="1000" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e4588ebbbe22f12c097957639a1e4c46c334a011ad8f1a33c2e2847574f22925e12fb44e6cb0b49705b10bc46b516d757749a93b54a82de4c746f713d992804c</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 630 100</string>
+          <string>hstem 780 80</string>
+          <string>hstem 780 220</string>
+          <string>hstem 860 -20</string>
+          <string>vstem 277 114</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

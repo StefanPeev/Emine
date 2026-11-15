@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="2">
+  <advance width="744"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <contour>
+      <point x="221" y="0" type="line"/>
+      <point x="370" y="499" type="line"/>
+      <point x="372" y="499" type="line"/>
+      <point x="521" y="0" type="line"/>
+      <point x="551" y="0" type="line"/>
+      <point x="711" y="520" type="line"/>
+      <point x="690" y="520" type="line"/>
+      <point x="537" y="21" type="line"/>
+      <point x="535" y="21" type="line"/>
+      <point x="386" y="520" type="line"/>
+      <point x="356" y="520" type="line"/>
+      <point x="207" y="21" type="line"/>
+      <point x="205" y="21" type="line"/>
+      <point x="52" y="520" type="line"/>
+      <point x="31" y="520" type="line"/>
+      <point x="191" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="521" y="635" type="line"/>
+      <point x="521" y="695" type="line"/>
+      <point x="461" y="695" type="line"/>
+      <point x="461" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="635" type="line"/>
+      <point x="281" y="695" type="line"/>
+      <point x="221" y="695" type="line"/>
+      <point x="221" y="635" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>acbf312693a962b5f39a725e144a6bcf927109ad1a241cefb922fd7dd79ed0a7683fc23ef23c1bd45d6ceecde249b5d16e8f77ddcdab0f78c55e5056acf90350</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 21</string>
+          <string>hstem 499 21</string>
+          <string>hstem 635 60</string>
+          <string>vstem 221 60</string>
+          <string>vstem 461 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

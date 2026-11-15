@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wacute" format="2">
+  <advance width="784"/>
+  <unicode hex="1E83"/>
+  <outline>
+    <contour>
+      <point x="301" y="0" type="line"/>
+      <point x="390" y="405" type="line"/>
+      <point x="392" y="405" type="line"/>
+      <point x="481" y="0" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="761" y="520" type="line"/>
+      <point x="643" y="520" type="line"/>
+      <point x="555" y="105" type="line"/>
+      <point x="553" y="105" type="line"/>
+      <point x="464" y="520" type="line"/>
+      <point x="318" y="520" type="line"/>
+      <point x="229" y="105" type="line"/>
+      <point x="227" y="105" type="line"/>
+      <point x="139" y="520" type="line"/>
+      <point x="21" y="520" type="line"/>
+      <point x="161" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="567" y="790" type="line"/>
+      <point x="427" y="790" type="line"/>
+      <point x="336" y="570" type="line"/>
+      <point x="446" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e9b3ea65f8cf1a2ead75e9ffb6d749b6b6f211f1601b894cf398fc353467d11a4b00d040d6dd65f7ca48be7ddadfcf6414244dad58abe70ba5b6ab80fe57f4b9</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 105</string>
+          <string>hstem 405 115</string>
+          <string>hstem 520 -20</string>
+          <string>hstem 570 220</string>
+          <string>vstem 21 740</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

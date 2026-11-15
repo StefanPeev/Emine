@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Decyr.loclBGR" format="2">
+  <advance width="654"/>
+  <outline>
+    <component base="uni0414"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Decyr</string>
+  </dict>
+  </lib>
+</glyph>
