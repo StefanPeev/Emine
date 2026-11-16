@@ -2,53 +2,22 @@
 <glyph name="racute" format="2">
   <advance width="480"/>
   <unicode hex="0155"/>
+  <anchor x="259" y="590" name="top"/>
+  <anchor x="259" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="252" y="0" type="line"/>
-      <point x="252" y="220" type="line" smooth="yes"/>
-      <point x="252" y="303"/>
-      <point x="347" y="370"/>
-      <point x="464" y="370" type="curve"/>
-      <point x="464" y="530" type="line"/>
-      <point x="381" y="530"/>
-      <point x="306" y="496"/>
-      <point x="246" y="430" type="curve"/>
-      <point x="244" y="430" type="line"/>
-      <point x="242" y="520" type="line"/>
-      <point x="54" y="520" type="line"/>
-      <point x="54" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="448" y="790" type="line"/>
-      <point x="218" y="790" type="line"/>
-      <point x="158" y="570" type="line"/>
-      <point x="328" y="570" type="line"/>
-    </contour>
+    <component base="r"/>
+    <component base="acute" xOffset="53"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c618b82c7175504edb092e5a03577e503d0f7b4182590f19636da6cbd797178012ddab3f91b9e093f9bc4196234bd4e6242766794ff27a8b63146e0a1174badc</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 370 160</string>
-          <string>hstem 520 -20</string>
-          <string>hstem 570 220</string>
-          <string>vstem 54 198</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>r+acute</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

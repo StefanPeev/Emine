@@ -2,14 +2,20 @@
 <glyph name="hardcyr.loclBGR" format="2">
   <advance width="576"/>
   <outline>
-    <component base="hardcyr" xOffset="-10"/>
+    <component base="softcyr.loclBGR" xOffset="35"/>
+    <contour>
+      <point x="-54" y="440" type="line"/>
+      <point x="141" y="440" type="line"/>
+      <point x="141" y="520" type="line"/>
+      <point x="-54" y="520" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>com.fontlab.recipe</key>
-  <string>hardcyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=softcyr.loclBGR</string>
   </dict>
   </lib>
 </glyph>

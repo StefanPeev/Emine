@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ycircumflex" format="2">
-  <advance width="592"/>
+  <advance width="590"/>
   <unicode hex="0177"/>
+  <anchor x="512" y="-50" name="bottom"/>
+  <anchor x="296" y="590" name="t.ring"/>
   <outline>
-    <contour>
-      <point x="328" y="-210" type="line"/>
-      <point x="590" y="520" type="line"/>
-      <point x="380" y="520" type="line"/>
-      <point x="300" y="170" type="line"/>
-      <point x="298" y="170" type="line"/>
-      <point x="210" y="520" type="line"/>
-      <point x="0" y="520" type="line"/>
-      <point x="201" y="0" type="line"/>
-      <point x="123" y="-210" type="line"/>
-    </contour>
-    <contour>
-      <point x="235" y="570" type="line"/>
-      <point x="294" y="670" type="line"/>
-      <point x="296" y="670" type="line"/>
-      <point x="355" y="570" type="line"/>
-      <point x="565" y="570" type="line"/>
-      <point x="405" y="790" type="line"/>
-      <point x="185" y="790" type="line"/>
-      <point x="25" y="570" type="line"/>
-    </contour>
+    <component base="y"/>
+    <component base="uni0302" xOffset="296" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>546f3ca54aa1564e4e5cf1cb18f1ddf58026f5669ebe4979acd9070d3c50cde628d06622265167e6f7609a3925dca75f3fdd66eed8a138fa7d6a2dd505c6eb37</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 520 -20</string>
-          <string>hstem 570 220</string>
-          <string>vstem 0 590</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -2,6 +2,7 @@
 <glyph name="Rcaron" format="2">
   <advance width="664"/>
   <unicode hex="0158"/>
+  <anchor x="332" y="-50" name="bottom"/>
   <outline>
     <component base="R"/>
     <component base="uni030C" xOffset="332" yOffset="220"/>

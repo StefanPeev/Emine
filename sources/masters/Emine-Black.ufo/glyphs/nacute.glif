@@ -2,62 +2,21 @@
 <glyph name="nacute" format="2">
   <advance width="627"/>
   <unicode hex="0144"/>
+  <anchor x="314" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="250" y="0" type="line"/>
-      <point x="250" y="300" type="line" smooth="yes"/>
-      <point x="250" y="341"/>
-      <point x="283" y="370"/>
-      <point x="329" y="370" type="curve" smooth="yes"/>
-      <point x="371" y="370"/>
-      <point x="388" y="345"/>
-      <point x="388" y="280" type="curve" smooth="yes"/>
-      <point x="388" y="0" type="line"/>
-      <point x="584" y="0" type="line"/>
-      <point x="584" y="320" type="line" smooth="yes"/>
-      <point x="584" y="466"/>
-      <point x="530" y="530"/>
-      <point x="409" y="530" type="curve" smooth="yes"/>
-      <point x="339" y="530"/>
-      <point x="290" y="509"/>
-      <point x="244" y="460" type="curve"/>
-      <point x="242" y="460" type="line"/>
-      <point x="240" y="520" type="line"/>
-      <point x="54" y="520" type="line"/>
-      <point x="54" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="519" y="790" type="line"/>
-      <point x="289" y="790" type="line"/>
-      <point x="229" y="570" type="line"/>
-      <point x="399" y="570" type="line"/>
-    </contour>
+    <component base="n"/>
+    <component base="uni0301" xOffset="314" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>29743674a9b144156a9899540d8bb346cb2e90a148bd00916ae4351052bafe6bfaff95ac82bda2848bb50756f2f4b9bbdcde70675654364c79d9eb42883c3777</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 370 150</string>
-          <string>hstem 530 -20</string>
-          <string>hstem 570 220</string>
-          <string>vstem 54 196</string>
-          <string>vstem 388 196</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+uni0301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

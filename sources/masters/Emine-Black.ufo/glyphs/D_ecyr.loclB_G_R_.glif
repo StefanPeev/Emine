@@ -2,14 +2,35 @@
 <glyph name="Decyr.loclBGR" format="2">
   <advance width="757"/>
   <outline>
-    <component base="uni0414"/>
+    <contour>
+      <point x="6" y="170" type="line"/>
+      <point x="6" y="-160" type="line"/>
+      <point x="196" y="-160" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="-160" type="line"/>
+      <point x="751" y="-160" type="line"/>
+      <point x="751" y="170" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="0" type="line"/>
+      <point x="379" y="560" type="line"/>
+      <point x="381" y="560" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="740" y="0" type="line"/>
+      <point x="515" y="730" type="line"/>
+      <point x="245" y="730" type="line"/>
+      <point x="20" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>com.fontlab.recipe</key>
-  <string>Decyr</string>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=Decyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=Decyr</string>
   </dict>
   </lib>
 </glyph>

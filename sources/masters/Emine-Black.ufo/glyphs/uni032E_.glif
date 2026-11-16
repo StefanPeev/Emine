@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni032E" format="2">
-  <advance width="548"/>
   <unicode hex="032E"/>
+  <anchor x="0" y="-50" name="_bottom"/>
   <outline>
     <contour>
-      <point x="274" y="-245" type="curve" smooth="yes"/>
-      <point x="445" y="-245"/>
-      <point x="534" y="-175"/>
-      <point x="534" y="-40" type="curve"/>
-      <point x="364" y="-40" type="line"/>
-      <point x="355" y="-89"/>
-      <point x="324" y="-115"/>
-      <point x="274" y="-115" type="curve" smooth="yes"/>
-      <point x="223" y="-115"/>
-      <point x="192" y="-89"/>
-      <point x="184" y="-40" type="curve"/>
-      <point x="14" y="-40" type="line"/>
-      <point x="14" y="-175"/>
-      <point x="104" y="-245"/>
+      <point x="0" y="-245" type="curve" smooth="yes"/>
+      <point x="171" y="-245"/>
+      <point x="260" y="-175"/>
+      <point x="260" y="-40" type="curve"/>
+      <point x="90" y="-40" type="line"/>
+      <point x="81" y="-89"/>
+      <point x="50" y="-115"/>
+      <point x="0" y="-115" type="curve" smooth="yes"/>
+      <point x="-51" y="-115"/>
+      <point x="-82" y="-89"/>
+      <point x="-90" y="-40" type="curve"/>
+      <point x="-260" y="-40" type="line"/>
+      <point x="-260" y="-175"/>
+      <point x="-170" y="-245"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>7947fdbb86a7fa12eb19a36848116c8471599bd348bb4604523289ae543cd36c966b687b2be13ef62c178a6a3c15bbfb03a171a6564e0e0e3437f151632a3250</string>
+    <string>w0m0,-245c171,-245 260,-175 260,-40l90,-40c81,-89 50,-115 0,-115c-51,-115 -82,-89 -90,-40l-260,-40c-260,-175 -170,-245 0,-245</string>
     <key>hintSetList</key>
     <array>
       <dict>

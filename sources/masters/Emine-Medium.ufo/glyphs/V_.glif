@@ -2,6 +2,8 @@
 <glyph name="V" format="2">
   <advance width="694"/>
   <unicode hex="0056"/>
+  <anchor x="347" y="790" name="top"/>
+  <anchor x="347" y="-50" name="bottom"/>
   <outline>
     <contour>
       <point x="419" y="0" type="line"/>
@@ -14,6 +16,7 @@
       <point x="275" y="0" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="347" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>

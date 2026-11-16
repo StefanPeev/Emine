@@ -2,6 +2,7 @@
 <glyph name="g" format="2">
   <advance width="617"/>
   <unicode hex="0067"/>
+  <anchor x="299" y="590" name="top"/>
   <outline>
     <contour>
       <point x="274" y="-220" type="curve" smooth="yes"/>
@@ -52,6 +53,7 @@
       <point x="371" y="110"/>
     </contour>
   </outline>
+  <guideline angle="90" x="308.5" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>
@@ -71,7 +73,7 @@
           <string>hstem 20 90</string>
           <string>hstem 440 90</string>
           <string>hstem 520 -20</string>
-          <string>vstem 41 106</string>
+          <string>vstem 41 1281</string>
           <string>vstem 433 108</string>
         </array>
       </dict>

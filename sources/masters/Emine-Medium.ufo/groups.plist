@@ -99,6 +99,7 @@
     <string>elcyr.loclBGR</string>
     <string>pecyr.loclBGR</string>
     <string>tecyr.loclBGR</string>
+    <string>efcyr.loclBGR</string>
     <string>tsecyr.loclBGR</string>
     <string>shacyr.loclBGR</string>
     <string>shchacyr.loclBGR</string>
@@ -123,6 +124,7 @@
     <string>elcyr</string>
     <string>pecyr</string>
     <string>tecyr</string>
+    <string>efcyr</string>
     <string>tsecyr</string>
     <string>shacyr</string>
     <string>shchacyr</string>

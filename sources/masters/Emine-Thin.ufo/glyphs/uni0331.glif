@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0331" format="2">
-  <advance width="400"/>
   <unicode hex="0331"/>
+  <anchor x="0" y="-50" name="_bottom"/>
   <outline>
     <contour>
-      <point x="367" y="-111" type="line"/>
-      <point x="367" y="-91" type="line"/>
-      <point x="33" y="-91" type="line"/>
-      <point x="33" y="-111" type="line"/>
+      <point x="167" y="-111" type="line"/>
+      <point x="167" y="-91" type="line"/>
+      <point x="-167" y="-91" type="line"/>
+      <point x="-167" y="-111" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,7 +19,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w400m367,-111l367,-91l33,-91l33,-111</string>
+    <string>w0m167,-111l167,-91l-167,-91l-167,-111</string>
     <key>hintSetList</key>
     <array>
       <dict>

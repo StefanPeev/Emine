@@ -7,8 +7,8 @@
   <key>capHeight</key>
   <integer>730</integer>
   <key>copyright</key>
-  <string>Copyright 2021 The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONTS)
-Copyright 2026 The Emine Project Authors (https://github.com/StefanPeev)</string>
+  <string>Copyright 2026 The Emine Project Authors (https://github.com/StefanPeev/Emine)
+Copyright 2021 The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONTS)</string>
   <key>descender</key>
   <integer>-140</integer>
   <key>familyName</key>
@@ -56,17 +56,17 @@ Copyright 2026 The Emine Project Authors (https://github.com/StefanPeev)</string
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
   <key>openTypeNameDesigner</key>
-  <string>Coji Morishita</string>
+  <string>Designer of the MPLUS project: Coji Morishita. Designer of the Emine prject: Stefan Peev</string>
   <key>openTypeNameDesignerURL</key>
-  <string>http://www.underforest.com</string>
+  <string>https://localfonts.eu</string>
   <key>openTypeNameLicense</key>
   <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
   <key>openTypeNameLicenseURL</key>
   <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameManufacturer</key>
-  <string>UNDERFOREST DESIGN</string>
+  <string>Stefan Peev</string>
   <key>openTypeNameManufacturerURL</key>
-  <string>http://www.underforest.com</string>
+  <string>https://localfonts.eu</string>
   <key>openTypeNamePreferredFamilyName</key>
   <string>Emine</string>
   <key>openTypeNamePreferredSubfamilyName</key>
@@ -87,7 +87,7 @@ Copyright 2026 The Emine Project Authors (https://github.com/StefanPeev)</string
   </dict>
   </array>
   <key>openTypeNameVersion</key>
-  <string>Version 1.004</string>
+  <string>Version 1.006</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -214,7 +214,7 @@ Copyright 2026 The Emine Project Authors (https://github.com/StefanPeev)</string
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>4</integer>
+  <integer>6</integer>
   <key>xHeight</key>
   <integer>520</integer>
 </dict>

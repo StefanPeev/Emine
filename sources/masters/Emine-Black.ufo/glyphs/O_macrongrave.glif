@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacrongrave" format="2">
+  <advance width="820"/>
+  <unicode hex="1E50"/>
+  <anchor x="312" y="-50" name="bottom"/>
+  <outline>
+    <component base="Omacron"/>
+    <component base="uni0300" xOffset="451" yOffset="210"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Omacron+gravecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

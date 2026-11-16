@@ -3,51 +3,19 @@
   <advance width="348"/>
   <unicode hex="0135"/>
   <outline>
-    <contour>
-      <point x="-51" y="-220" type="line"/>
-      <point x="214" y="-200"/>
-      <point x="289" y="-136"/>
-      <point x="289" y="70" type="curve" smooth="yes"/>
-      <point x="289" y="520" type="line"/>
-      <point x="89" y="520" type="line"/>
-      <point x="89" y="70" type="line" smooth="yes"/>
-      <point x="89" y="-39"/>
-      <point x="69" y="-56"/>
-      <point x="-81" y="-70" type="curve"/>
-    </contour>
-    <contour>
-      <point x="129" y="570" type="line"/>
-      <point x="188" y="670" type="line"/>
-      <point x="190" y="670" type="line"/>
-      <point x="249" y="570" type="line"/>
-      <point x="459" y="570" type="line"/>
-      <point x="299" y="790" type="line"/>
-      <point x="79" y="790" type="line"/>
-      <point x="-81" y="570" type="line"/>
-    </contour>
+    <component base="uni0237"/>
+    <component base="uni0302" xOffset="189" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>1d114888536ebd831d0b59183760008e26e255565488e667bc93bc8e29fd44eee4fb527c4cc3e5cbfab8ef823ad3f8af13326fd4a1ec94bcfcce44b95e0fee31</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 520 -20</string>
-          <string>hstem 570 220</string>
-          <string>vstem 89 200</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni0237+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,58 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wgrave" format="2">
-  <advance width="822"/>
+  <advance width="824"/>
   <unicode hex="1E81"/>
+  <anchor x="412" y="-50" name="bottom"/>
+  <anchor x="412" y="590" name="t.ring"/>
   <outline>
-    <contour>
-      <point x="367" y="0" type="line"/>
-      <point x="411" y="350" type="line"/>
-      <point x="413" y="350" type="line"/>
-      <point x="457" y="0" type="line"/>
-      <point x="692" y="0" type="line"/>
-      <point x="812" y="520" type="line"/>
-      <point x="618" y="520" type="line"/>
-      <point x="578" y="170" type="line"/>
-      <point x="576" y="170" type="line"/>
-      <point x="530" y="520" type="line"/>
-      <point x="294" y="520" type="line"/>
-      <point x="248" y="170" type="line"/>
-      <point x="246" y="170" type="line"/>
-      <point x="206" y="520" type="line"/>
-      <point x="12" y="520" type="line"/>
-      <point x="132" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="501" y="570" type="line"/>
-      <point x="441" y="790" type="line"/>
-      <point x="211" y="790" type="line"/>
-      <point x="331" y="570" type="line"/>
-    </contour>
+    <component base="w"/>
+    <component base="uni0300" xOffset="412" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>369b62a9dec00ea5dc9f50db04a7a7e9d47a94ccc7e274893ce7f7c225efcf33e887deb0007a36acf02350a180967fe053f0f18c54b6deceec5b95ea2bbe2582</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 170</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 350 170</string>
-          <string>hstem 520 -20</string>
-          <string>hstem 570 220</string>
-          <string>vstem 12 800</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>w+uni0300</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

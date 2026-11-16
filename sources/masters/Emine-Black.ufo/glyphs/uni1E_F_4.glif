@@ -1,51 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EF4" format="2">
-  <advance width="708"/>
+  <advance width="706"/>
   <unicode hex="1EF4"/>
+  <anchor x="353" y="790" name="top"/>
   <outline>
-    <contour>
-      <point x="458" y="0" type="line"/>
-      <point x="458" y="250" type="line"/>
-      <point x="703" y="730" type="line"/>
-      <point x="483" y="730" type="line"/>
-      <point x="354" y="420" type="line"/>
-      <point x="352" y="420" type="line"/>
-      <point x="223" y="730" type="line"/>
-      <point x="3" y="730" type="line"/>
-      <point x="248" y="250" type="line"/>
-      <point x="248" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="448" y="-240" type="line"/>
-      <point x="448" y="-50" type="line"/>
-      <point x="258" y="-50" type="line"/>
-      <point x="258" y="-240" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="uni0323" xOffset="353"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w708m458,0l458,250l703,730l483,730l354,420l352,420l223,730l3,730l248,250l248,0m448,-240l448,-50l258,-50l258,-240</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -240 190</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 730 -20</string>
-          <string>vstem 248 200</string>
-          <string>vstem 258 200</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Y+uni0323</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

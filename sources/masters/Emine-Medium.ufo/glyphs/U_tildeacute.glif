@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Utildeacute" format="2">
+  <advance width="732"/>
+  <unicode hex="1E78"/>
+  <anchor x="366" y="-50" name="bottom"/>
+  <outline>
+    <component base="Utilde"/>
+    <component base="uni0301" xOffset="339" yOffset="210"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Utilde+acutecomb</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

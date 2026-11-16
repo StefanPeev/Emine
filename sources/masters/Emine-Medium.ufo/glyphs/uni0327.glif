@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0327" format="2">
-  <advance width="394"/>
   <unicode hex="0327"/>
+  <anchor x="0" y="-50" name="_bottom"/>
   <outline>
     <contour>
-      <point x="174" y="-217" type="curve" smooth="yes"/>
-      <point x="276" y="-217"/>
-      <point x="335" y="-179"/>
-      <point x="335" y="-112" type="curve" smooth="yes"/>
-      <point x="335" y="-64"/>
-      <point x="305" y="-18"/>
-      <point x="246" y="24" type="curve"/>
-      <point x="148" y="0" type="line"/>
-      <point x="202" y="-32"/>
-      <point x="233" y="-66"/>
-      <point x="233" y="-93" type="curve" smooth="yes"/>
-      <point x="233" y="-117"/>
-      <point x="209" y="-130"/>
-      <point x="165" y="-130" type="curve" smooth="yes"/>
-      <point x="134" y="-130"/>
-      <point x="104" y="-124"/>
-      <point x="76" y="-111" type="curve"/>
-      <point x="59" y="-196" type="line"/>
-      <point x="93" y="-210"/>
-      <point x="131" y="-217"/>
+      <point x="-23" y="-217" type="curve" smooth="yes"/>
+      <point x="79" y="-217"/>
+      <point x="138" y="-179"/>
+      <point x="138" y="-112" type="curve" smooth="yes"/>
+      <point x="138" y="-64"/>
+      <point x="108" y="-18"/>
+      <point x="49" y="24" type="curve"/>
+      <point x="-49" y="0" type="line"/>
+      <point x="5" y="-32"/>
+      <point x="36" y="-66"/>
+      <point x="36" y="-93" type="curve" smooth="yes"/>
+      <point x="36" y="-117"/>
+      <point x="12" y="-130"/>
+      <point x="-32" y="-130" type="curve" smooth="yes"/>
+      <point x="-63" y="-130"/>
+      <point x="-93" y="-124"/>
+      <point x="-121" y="-111" type="curve"/>
+      <point x="-138" y="-196" type="line"/>
+      <point x="-104" y="-210"/>
+      <point x="-66" y="-217"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>d9509c3006e92ae3562f88c60faa329abf31c72be9e345d76dd05e686872495fca146843a31b0ec49fec01581c29bf5e28cc3e2ef9dcf61c01bc79350da02821</string>
+    <string>f16000d02675297d45a2e0b40c49b346f5e279cf7bf2fb0e4ccbc8521bb0f16f382fabe0c476b7bd841925f990701ddd538136d9a447af8fd36afbd0b31dd258</string>
     <key>hintSetList</key>
     <array>
       <dict>

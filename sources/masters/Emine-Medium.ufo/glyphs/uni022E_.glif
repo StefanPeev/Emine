@@ -2,7 +2,7 @@
 <glyph name="uni022E" format="2">
   <advance width="834"/>
   <unicode hex="022E"/>
-  <anchor x="312" y="-50" name="bottom"/>
+  <anchor x="417" y="-50" name="bottom"/>
   <outline>
     <component base="O"/>
     <component base="uni0307" xOffset="417" yOffset="220"/>

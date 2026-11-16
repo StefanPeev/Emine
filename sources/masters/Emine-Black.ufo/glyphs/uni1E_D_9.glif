@@ -3,77 +3,19 @@
   <advance width="614"/>
   <unicode hex="1ED9"/>
   <outline>
-    <contour>
-      <point x="307" y="-10" type="curve" smooth="yes"/>
-      <point x="489" y="-10"/>
-      <point x="587" y="84"/>
-      <point x="587" y="260" type="curve" smooth="yes"/>
-      <point x="587" y="436"/>
-      <point x="489" y="530"/>
-      <point x="307" y="530" type="curve" smooth="yes"/>
-      <point x="125" y="530"/>
-      <point x="27" y="436"/>
-      <point x="27" y="260" type="curve" smooth="yes"/>
-      <point x="27" y="84"/>
-      <point x="125" y="-10"/>
-    </contour>
-    <contour>
-      <point x="307" y="130" type="curve" smooth="yes"/>
-      <point x="249" y="130"/>
-      <point x="223" y="170"/>
-      <point x="223" y="260" type="curve" smooth="yes"/>
-      <point x="223" y="350"/>
-      <point x="249" y="390"/>
-      <point x="307" y="390" type="curve" smooth="yes"/>
-      <point x="365" y="390"/>
-      <point x="391" y="350"/>
-      <point x="391" y="260" type="curve" smooth="yes"/>
-      <point x="391" y="170"/>
-      <point x="365" y="130"/>
-    </contour>
-    <contour>
-      <point x="402" y="-240" type="line"/>
-      <point x="402" y="-50" type="line"/>
-      <point x="212" y="-50" type="line"/>
-      <point x="212" y="-240" type="line"/>
-    </contour>
-    <contour>
-      <point x="247" y="570" type="line"/>
-      <point x="306" y="670" type="line"/>
-      <point x="308" y="670" type="line"/>
-      <point x="367" y="570" type="line"/>
-      <point x="577" y="570" type="line"/>
-      <point x="417" y="790" type="line"/>
-      <point x="197" y="790" type="line"/>
-      <point x="37" y="570" type="line"/>
-    </contour>
+    <component base="uni1ECD"/>
+    <component base="uni0302" xOffset="307" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>fb8f3623a2c133da3975acdb3df7a2c41bdeb067ce224619761c9c55928c057c7d3bddb128d5873e80b7a138d915dd0ee20c46e3bf28b302ca540a43f291d1e5</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -240 190</string>
-          <string>hstem -10 140</string>
-          <string>hstem 390 140</string>
-          <string>hstem 570 220</string>
-          <string>vstem 27 196</string>
-          <string>vstem 212 190</string>
-          <string>vstem 391 196</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni1ECD+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

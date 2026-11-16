@@ -2,55 +2,21 @@
 <glyph name="Zcaron" format="2">
   <advance width="636"/>
   <unicode hex="017D"/>
+  <anchor x="318" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="588" y="0" type="line"/>
-      <point x="588" y="165" type="line"/>
-      <point x="283" y="165" type="line"/>
-      <point x="283" y="167" type="line"/>
-      <point x="588" y="565" type="line"/>
-      <point x="588" y="730" type="line"/>
-      <point x="48" y="730" type="line"/>
-      <point x="48" y="565" type="line"/>
-      <point x="353" y="565" type="line"/>
-      <point x="353" y="563" type="line"/>
-      <point x="48" y="165" type="line"/>
-      <point x="48" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="46" y="1000" type="line"/>
-      <point x="206" y="780" type="line"/>
-      <point x="426" y="780" type="line"/>
-      <point x="586" y="1000" type="line"/>
-      <point x="376" y="1000" type="line"/>
-      <point x="317" y="900" type="line"/>
-      <point x="315" y="900" type="line"/>
-      <point x="256" y="1000" type="line"/>
-    </contour>
+    <component base="Z"/>
+    <component base="uni030C" xOffset="318" yOffset="220"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>1d67d9a96cecc7d5eccd09fe611a5df13d4285acadb3ce64c38ab134e6fd2416ed50dda9790e0856b27bcbbaa156c14c3562c6f2158a09f30427205c6173c420</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 165</string>
-          <string>hstem 565 165</string>
-          <string>hstem 780 220</string>
-          <string>vstem 46 542</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Z+uni030C</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dzecyr" format="2">
-  <advance width="631"/>
+  <advance width="630"/>
   <unicode hex="0405"/>
+  <anchor x="315" y="790" name="top"/>
+  <anchor x="315" y="-50" name="bottom"/>
   <outline>
     <component base="S"/>
   </outline>

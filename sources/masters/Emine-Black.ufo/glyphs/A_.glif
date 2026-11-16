@@ -5,22 +5,23 @@
   <anchor x="366" y="790" name="top"/>
   <anchor x="366" y="660" name="t.ring"/>
   <anchor x="365" y="-50" name="bottom"/>
+  <anchor x="365" y="-50" name="b.ring"/>
   <outline>
     <contour>
+      <point x="447" y="300" type="line"/>
+      <point x="285" y="300" type="line"/>
+      <point x="245" y="135" type="line"/>
+      <point x="487" y="135" type="line"/>
+    </contour>
+    <contour>
       <point x="226" y="0" type="line"/>
-      <point x="260" y="135" type="line"/>
-      <point x="472" y="135" type="line"/>
+      <point x="365" y="560" type="line"/>
+      <point x="367" y="560" type="line"/>
       <point x="506" y="0" type="line"/>
       <point x="726" y="0" type="line"/>
       <point x="501" y="730" type="line"/>
       <point x="231" y="730" type="line"/>
       <point x="6" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="300" y="300" type="line"/>
-      <point x="365" y="560" type="line"/>
-      <point x="367" y="560" type="line"/>
-      <point x="432" y="300" type="line"/>
     </contour>
   </outline>
   <guideline angle="90" x="366" y="0"/>
@@ -33,7 +34,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w732m226,0l260,135l472,135l506,0l726,0l501,730l231,730l6,0m300,300l365,560l367,560l432,300</string>
+    <string>w732m447,300l285,300l245,135l487,135m226,0l365,560l367,560l506,0l726,0l501,730l231,730l6,0</string>
     <key>hintSetList</key>
     <array>
       <dict>

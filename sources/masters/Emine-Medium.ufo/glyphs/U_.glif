@@ -4,6 +4,7 @@
   <unicode hex="0055"/>
   <anchor x="366" y="790" name="top"/>
   <anchor x="366" y="-50" name="bottom"/>
+  <anchor x="366" y="790" name="t.ring"/>
   <outline>
     <contour>
       <point x="366" y="-10" type="curve" smooth="yes"/>

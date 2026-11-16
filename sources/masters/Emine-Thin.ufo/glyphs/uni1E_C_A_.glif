@@ -2,44 +2,21 @@
 <glyph name="uni1ECA" format="2">
   <advance width="262"/>
   <unicode hex="1ECA"/>
+  <anchor x="131" y="790" name="top"/>
   <outline>
-    <contour>
-      <point x="141" y="0" type="line"/>
-      <point x="141" y="730" type="line"/>
-      <point x="121" y="730" type="line"/>
-      <point x="121" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="161" y="-175" type="line"/>
-      <point x="161" y="-115" type="line"/>
-      <point x="101" y="-115" type="line"/>
-      <point x="101" y="-175" type="line"/>
-    </contour>
+    <component base="I"/>
+    <component base="uni0323" xOffset="131"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w262m141,0l141,730l121,730l121,0m161,-175l161,-115l101,-115l101,-175</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -175 60</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 730 -20</string>
-          <string>vstem 101 60</string>
-          <string>vstem 121 20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>I+uni0323</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

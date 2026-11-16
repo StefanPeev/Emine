@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="2">
-  <advance width="705"/>
+  <advance width="704"/>
   <unicode hex="0044"/>
+  <anchor x="352" y="790" name="top"/>
+  <anchor x="352" y="-50" name="bottom"/>
   <outline>
     <contour>
       <point x="260" y="0" type="line" smooth="yes"/>
@@ -26,6 +28,7 @@
       <point x="260" y="20" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <guideline angle="90" x="352" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>
@@ -35,7 +38,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>ac35c4ac4376e087dadacb2af8fa56c7a8cf796fd41e2e752a89485b4c5ce48065d58c8a24f94daa3de904588a774e20ebc4445481639297619c3a0901ac20b7</string>
+    <string>0a07dacaff1b39d45db6480bce7c874ff0c6120f10b0ad0a4f3b4069dfc388e696bf969f0f27d610df7869365507d136ba5f6b902f64d4f508c34d25a2d0a41c</string>
     <key>hintSetList</key>
     <array>
       <dict>

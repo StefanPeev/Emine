@@ -2,59 +2,21 @@
 <glyph name="uni0211" format="2">
   <advance width="480"/>
   <unicode hex="0211"/>
+  <anchor x="259" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="252" y="0" type="line"/>
-      <point x="252" y="220" type="line" smooth="yes"/>
-      <point x="252" y="303"/>
-      <point x="347" y="370"/>
-      <point x="464" y="370" type="curve"/>
-      <point x="464" y="530" type="line"/>
-      <point x="381" y="530"/>
-      <point x="306" y="496"/>
-      <point x="246" y="430" type="curve"/>
-      <point x="244" y="430" type="line"/>
-      <point x="242" y="520" type="line"/>
-      <point x="54" y="520" type="line"/>
-      <point x="54" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="231" y="570" type="line"/>
-      <point x="177" y="790" type="line"/>
-      <point x="-30" y="790" type="line"/>
-      <point x="78" y="570" type="line"/>
-    </contour>
-    <contour>
-      <point x="471" y="570" type="line"/>
-      <point x="417" y="790" type="line"/>
-      <point x="210" y="790" type="line"/>
-      <point x="318" y="570" type="line"/>
-    </contour>
+    <component base="r"/>
+    <component base="uni030F" xOffset="259" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>72704848eb2c4434ba3885f505bd2ef43f3239f2777a727a5603727e079b38f829f4646ea96686623c526a85989223b9b50cb8a4da71e8fd6b0a04c30d3d6543</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 370 160</string>
-          <string>hstem 520 -20</string>
-          <string>hstem 570 220</string>
-          <string>vstem 54 198</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>r+uni030F</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

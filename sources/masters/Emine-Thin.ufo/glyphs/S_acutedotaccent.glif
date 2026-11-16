@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sacutedotaccent" format="2">
+  <advance width="631"/>
+  <unicode hex="1E64"/>
+  <outline>
+    <component base="Sacute"/>
+    <component base="uni0307" xOffset="316" yOffset="210"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>Sacute+uni0307</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

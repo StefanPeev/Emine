@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="2">
-  <advance width="623"/>
+  <advance width="622"/>
   <unicode hex="0050"/>
+  <anchor x="311" y="790" name="top"/>
+  <anchor x="311" y="-50" name="bottom"/>
   <outline>
     <contour>
       <point x="130" y="0" type="line"/>
@@ -28,6 +30,7 @@
       <point x="287" y="310" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <guideline angle="90" x="311" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>
@@ -37,7 +40,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f7812f625f9be1bc9025e57893c1695928e8601ed32e0bb710156f413aec74dff3b73ccca4b755594c2ea28c4da7eec87714653d005db214c40059cb1995bc76</string>
+    <string>fbbd3c8e204e9e91c3c1f6d73ddc91b572636c1c7d8813d51e749915e6c8c899f575784b5410e349663999a3a9cae682cc58445db94ebb0ef10a69b0de850005</string>
     <key>hintSetList</key>
     <array>
       <dict>

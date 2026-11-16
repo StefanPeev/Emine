@@ -1,55 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="2">
-  <advance width="512"/>
+  <advance width="510"/>
   <unicode hex="00FF"/>
+  <anchor x="372" y="-50" name="bottom"/>
+  <anchor x="255" y="590" name="t.ring"/>
   <outline>
-    <contour>
-      <point x="162" y="-210" type="line"/>
-      <point x="495" y="520" type="line"/>
-      <point x="473" y="520" type="line"/>
-      <point x="252" y="35" type="line"/>
-      <point x="250" y="35" type="line"/>
-      <point x="46" y="520" type="line"/>
-      <point x="25" y="518" type="line"/>
-      <point x="241" y="9" type="line"/>
-      <point x="140" y="-210" type="line"/>
-    </contour>
-    <contour>
-      <point x="410" y="635" type="line"/>
-      <point x="410" y="695" type="line"/>
-      <point x="350" y="695" type="line"/>
-      <point x="350" y="635" type="line"/>
-    </contour>
-    <contour>
-      <point x="170" y="635" type="line"/>
-      <point x="170" y="695" type="line"/>
-      <point x="110" y="695" type="line"/>
-      <point x="110" y="635" type="line"/>
-    </contour>
+    <component base="y"/>
+    <component base="uni0308" xOffset="255" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>9dd3a06f4474a38874ad009df901a5da2cbd7c40a4505630fc732d7d5d50105c83db63880555a768335293277e68119549a60505bb3f52e846be3a04483ad159</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 520 -20</string>
-          <string>hstem 635 60</string>
-          <string>vstem 110 60</string>
-          <string>vstem 350 60</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>y+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

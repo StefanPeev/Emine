@@ -2,56 +2,21 @@
 <glyph name="zcaron" format="2">
   <advance width="508"/>
   <unicode hex="017E"/>
+  <anchor x="254" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="449" y="0" type="line"/>
-      <point x="449" y="20" type="line"/>
-      <point x="86" y="20" type="line"/>
-      <point x="86" y="22" type="line"/>
-      <point x="449" y="500" type="line"/>
-      <point x="449" y="520" type="line"/>
-      <point x="59" y="520" type="line"/>
-      <point x="59" y="500" type="line"/>
-      <point x="422" y="500" type="line"/>
-      <point x="422" y="498" type="line"/>
-      <point x="59" y="20" type="line"/>
-      <point x="59" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="86" y="790" type="line"/>
-      <point x="243" y="570" type="line"/>
-      <point x="273" y="570" type="line"/>
-      <point x="430" y="790" type="line"/>
-      <point x="405" y="790" type="line"/>
-      <point x="259" y="584" type="line"/>
-      <point x="257" y="584" type="line"/>
-      <point x="111" y="790" type="line"/>
-    </contour>
+    <component base="z"/>
+    <component base="uni030C" xOffset="254" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>c3f1dd25998cebe262d019d35977f780cafcc97e43d34d26ed8e3f662def0bb7016d81729295d8a30bcd81ba92b38c2a2431ff538e0806083ad971df8b1e2616</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 20</string>
-          <string>hstem 500 20</string>
-          <string>hstem 570 14</string>
-          <string>vstem 59 27</string>
-          <string>vstem 422 27</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>z+uni030C</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

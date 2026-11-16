@@ -2,64 +2,21 @@
 <glyph name="Wdieresis" format="2">
   <advance width="968"/>
   <unicode hex="1E84"/>
+  <anchor x="484" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="414" y="0" type="line"/>
-      <point x="483" y="460" type="line"/>
-      <point x="485" y="460" type="line"/>
-      <point x="554" y="0" type="line"/>
-      <point x="794" y="0" type="line"/>
-      <point x="944" y="730" type="line"/>
-      <point x="739" y="730" type="line"/>
-      <point x="670" y="210" type="line"/>
-      <point x="668" y="210" type="line"/>
-      <point x="604" y="670" type="line"/>
-      <point x="364" y="670" type="line"/>
-      <point x="300" y="210" type="line"/>
-      <point x="298" y="210" type="line"/>
-      <point x="229" y="730" type="line"/>
-      <point x="24" y="730" type="line"/>
-      <point x="174" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="714" y="780" type="line"/>
-      <point x="714" y="970" type="line"/>
-      <point x="524" y="970" type="line"/>
-      <point x="524" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="444" y="780" type="line"/>
-      <point x="444" y="970" type="line"/>
-      <point x="254" y="970" type="line"/>
-      <point x="254" y="780" type="line"/>
-    </contour>
+    <component base="W"/>
+    <component base="uni0308" xOffset="484" yOffset="220"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>b025a99daae00e368810e60df938cebace8204915f2eae1d5d8025ebc676d5cb6658b6f990ef3acaaeed230c21391a4c899efc05d14cf50d9be2ff9fd6fa474d</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 210</string>
-          <string>hstem 21 -21</string>
-          <string>hstem 460 210</string>
-          <string>hstem 730 -20</string>
-          <string>hstem 780 190</string>
-          <string>vstem 254 190</string>
-          <string>vstem 524 190</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>W+uni0308</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,56 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="2">
-  <advance width="546"/>
+  <advance width="544"/>
   <unicode hex="017E"/>
+  <anchor x="272" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="487" y="0" type="line"/>
-      <point x="487" y="90" type="line"/>
-      <point x="198" y="90" type="line"/>
-      <point x="198" y="92" type="line"/>
-      <point x="487" y="430" type="line"/>
-      <point x="487" y="520" type="line"/>
-      <point x="57" y="520" type="line"/>
-      <point x="57" y="430" type="line"/>
-      <point x="346" y="430" type="line"/>
-      <point x="346" y="428" type="line"/>
-      <point x="57" y="90" type="line"/>
-      <point x="57" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="52" y="790" type="line"/>
-      <point x="206" y="570" type="line"/>
-      <point x="339" y="570" type="line"/>
-      <point x="494" y="790" type="line"/>
-      <point x="364" y="790" type="line"/>
-      <point x="274" y="650" type="line"/>
-      <point x="272" y="650" type="line"/>
-      <point x="182" y="790" type="line"/>
-    </contour>
+    <component base="z"/>
+    <component base="uni030C" xOffset="272" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>28389a55ada270714e33d8e5b8d9bd46e007565dc0760201f90628d85b489f7fb2323fdd72a1461240326d4d7adb1af2c013dc1acd5b0a01d6a228b385b03ed5</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 0 90</string>
-          <string>hstem 430 90</string>
-          <string>hstem 570 220</string>
-          <string>vstem 52 442</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>z+uni030C</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

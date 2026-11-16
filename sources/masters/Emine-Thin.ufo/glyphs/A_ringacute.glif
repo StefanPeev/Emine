@@ -4,6 +4,7 @@
   <unicode hex="01FA"/>
   <anchor x="342" y="790" name="top"/>
   <anchor x="341" y="-50" name="bottom"/>
+  <anchor x="341" y="-50" name="b.ring"/>
   <outline>
     <component base="A"/>
     <component base="uni030A0301" xOffset="342" yOffset="130"/>

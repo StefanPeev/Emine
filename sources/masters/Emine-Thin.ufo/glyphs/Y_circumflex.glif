@@ -2,53 +2,21 @@
 <glyph name="Ycircumflex" format="2">
   <advance width="666"/>
   <unicode hex="0176"/>
+  <anchor x="333" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="343" y="0" type="line"/>
-      <point x="343" y="297" type="line"/>
-      <point x="653" y="730" type="line"/>
-      <point x="628" y="730" type="line"/>
-      <point x="334" y="318" type="line"/>
-      <point x="332" y="318" type="line"/>
-      <point x="38" y="730" type="line"/>
-      <point x="13" y="730" type="line"/>
-      <point x="323" y="297" type="line"/>
-      <point x="323" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="186" y="780" type="line"/>
-      <point x="332" y="986" type="line"/>
-      <point x="334" y="986" type="line"/>
-      <point x="480" y="780" type="line"/>
-      <point x="505" y="780" type="line"/>
-      <point x="348" y="1000" type="line"/>
-      <point x="318" y="1000" type="line"/>
-      <point x="161" y="780" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="uni0302" xOffset="333" yOffset="220"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>5f61267e4bb4be807da56397d1d2ab7dfe0c7355a2abc3045a580eff47d2a7d6b61c93fc99783f646435557cbdec26e4099c42cd1987926d882fa041ac2bb518</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 730 -20</string>
-          <string>hstem 986 14</string>
-          <string>vstem 323 20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Y+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

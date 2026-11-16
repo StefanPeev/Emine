@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacrondieresis" format="2">
+  <advance width="617"/>
+  <unicode hex="1E7B"/>
+  <anchor x="309" y="-50" name="bottom"/>
+  <outline>
+    <component base="umacron"/>
+    <component base="uni0308" xOffset="309"/>
+  </outline>
+  <guideline angle="90" x="268.5" y="0"/>
+  <guideline angle="90" x="348.5" y="0"/>
+  <guideline angle="90" x="308.5" y="0"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>umacron+uni0308</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

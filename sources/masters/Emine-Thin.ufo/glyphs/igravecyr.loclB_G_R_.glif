@@ -2,6 +2,7 @@
 <glyph name="igravecyr.loclBGR" format="2">
   <advance width="578"/>
   <anchor x="289" y="-50" name="bottom"/>
+  <anchor x="289" y="590" name="t.ring"/>
   <outline>
     <component base="icyr.loclBGR"/>
     <component base="uni0300" xOffset="289" yOffset="20"/>
