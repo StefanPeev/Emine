@@ -1,5 +1,3 @@
-![Sample Image](/images/Emine_950x475_01.jpg)  
-  
 ## Changelog
 
 When you update your font (new version or new release), please report all notable changes here, with a date. 

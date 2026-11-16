@@ -23,6 +23,13 @@ License
 
 SIL Open Font License [OFL](documentation/OFL.md)
 
+Changelog
+---------
+
+See the [Changelog.md](https://github.com/StefanPeev/Emine/blob/main/Changelog.md).
+
+SIL Open Font License [OFL](documentation/OFL.md)
+
 Examples
 --------
 
