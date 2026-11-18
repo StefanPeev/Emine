@@ -36,15 +36,15 @@
 
 <img src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_18.jpg" />
   
-src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_19.jpg" />
+<img src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_19.jpg" />
   
-src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_20.jpg" />
+<img src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_20.jpg" />
   
-src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_21.jpg" />
+<img src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_21.jpg" />
   
-src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_22.jpg" />
+<img src="https://github.com/StefanPeev/Emine/blob/main/images/Emine_950x475_22.jpg" />
   
 <img src="https://github.com/StefanPeev/Emine/blob/main/images/Bulgarian_Cyrillic_Wikipedia_01.png" />  
   
-src="https://github.com/StefanPeev/Emine/blob/main/images/Website_01.png" />
+<img src="https://github.com/StefanPeev/Emine/blob/main/images/Website_01.png" />
     

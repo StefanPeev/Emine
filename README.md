@@ -3,7 +3,7 @@
 Emine
 ============
 
-This project represents a major revision of the [MPLUS font](https://github.com/coz-m/MPLUS_FONTS) family. Non-European writing systems have been removed, while the international form of the Cyrillic script—along with the specific variant used in Bulgaria—has been added. Future development of the project will expand the range of localized Cyrillic forms to include those for Serbian, North Macedonian, Ukrainian, and Belarusian, as well as for non-Slavic languages ​​that use the Cyrillic script.  
+This project represents a major revision of the [MPLUS font](https://github.com/coz-m/MPLUS_FONTS) family. Non-European writing systems have been removed, while the international form of the Cyrillic script—along with the specific variant used in Bulgaria, Serbia, North Macedonia—has been added. Future development of the project will expand the range of localized Cyrillic forms to include those for for non-Slavic languages ​​that use the Cyrillic script.  
   
 Acknowledgements
 ----------------
