@@ -2,57 +2,21 @@
 <glyph name="Hcircumflex" format="2">
   <advance width="730"/>
   <unicode hex="0124"/>
+  <anchor x="365" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="85" y="0" type="line"/>
-      <point x="195" y="0" type="line"/>
-      <point x="195" y="332" type="line"/>
-      <point x="535" y="332" type="line"/>
-      <point x="535" y="0" type="line"/>
-      <point x="645" y="0" type="line"/>
-      <point x="645" y="730" type="line"/>
-      <point x="535" y="730" type="line"/>
-      <point x="535" y="432" type="line"/>
-      <point x="195" y="432" type="line"/>
-      <point x="195" y="730" type="line"/>
-      <point x="85" y="730" type="line"/>
-    </contour>
-    <contour>
-      <point x="274" y="780" type="line"/>
-      <point x="364" y="920" type="line"/>
-      <point x="366" y="920" type="line"/>
-      <point x="456" y="780" type="line"/>
-      <point x="586" y="780" type="line"/>
-      <point x="431" y="1000" type="line"/>
-      <point x="298" y="1000" type="line"/>
-      <point x="144" y="780" type="line"/>
-    </contour>
+    <component base="H"/>
+    <component base="uni0302" xOffset="365" yOffset="220"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>4ba06eb4deba2162e4a973bbd520d4199d1f9bf4af82c6965cfeb342ced0561fe3cbaf6067ea9502ac0bea5d9cb338da27496f573df909b4f89aa951d6fdc388</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 332 100</string>
-          <string>hstem 730 -20</string>
-          <string>hstem 780 220</string>
-          <string>vstem 85 110</string>
-          <string>vstem 535 110</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>H+uni0302</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

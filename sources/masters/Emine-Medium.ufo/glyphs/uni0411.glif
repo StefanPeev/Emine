@@ -5,29 +5,35 @@
   <outline>
     <contour>
       <point x="85" y="0" type="line"/>
-      <point x="275" y="0" type="line" smooth="yes"/>
-      <point x="492" y="0"/>
-      <point x="596" y="75"/>
-      <point x="596" y="233" type="curve" smooth="yes"/>
-      <point x="596" y="389"/>
-      <point x="495" y="466"/>
-      <point x="290" y="466" type="curve" smooth="yes"/>
-      <point x="195" y="466" type="line"/>
-      <point x="195" y="630" type="line"/>
-      <point x="530" y="630" type="line"/>
-      <point x="530" y="730" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="730" type="line"/>
       <point x="85" y="730" type="line"/>
     </contour>
     <contour>
-      <point x="195" y="366" type="line"/>
-      <point x="277" y="366" type="line" smooth="yes"/>
-      <point x="421" y="366"/>
-      <point x="483" y="326"/>
+      <point x="175" y="630" type="line"/>
+      <point x="530" y="630" type="line"/>
+      <point x="530" y="730" type="line"/>
+      <point x="175" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="0" type="line"/>
+      <point x="315" y="0" type="line" smooth="yes"/>
+      <point x="487" y="0"/>
+      <point x="596" y="91"/>
+      <point x="596" y="233" type="curve" smooth="yes"/>
+      <point x="596" y="375"/>
+      <point x="493" y="466"/>
+      <point x="330" y="466" type="curve" smooth="yes"/>
+      <point x="175" y="466" type="line"/>
+      <point x="175" y="366" type="line"/>
+      <point x="317" y="366" type="line" smooth="yes"/>
+      <point x="418" y="366"/>
+      <point x="483" y="314"/>
       <point x="483" y="233" type="curve" smooth="yes"/>
-      <point x="483" y="140"/>
-      <point x="421" y="100"/>
-      <point x="277" y="100" type="curve" smooth="yes"/>
-      <point x="195" y="100" type="line"/>
+      <point x="483" y="152"/>
+      <point x="418" y="100"/>
+      <point x="317" y="100" type="curve" smooth="yes"/>
+      <point x="175" y="100" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a1ec06b9769882d4a5c2a9d206a00c7f78d7915096ecb4ac7581018ec515689abd0ae8aa8dc5f075d69159ce1cf6bfa932e6be9a7fc4bfc0c2cf69833ad6fc7f</string>
+    <string>2dcfe37a37697643e153b481b60ba79f71c15105b0f53016acd02f95f35e0a3f3f360678db07482b42114e56c9d18d8f38d30588ec7d7f5191cbc8cfa3590e88</string>
     <key>hintSetList</key>
     <array>
       <dict>

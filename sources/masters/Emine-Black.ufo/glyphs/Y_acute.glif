@@ -1,50 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacute" format="2">
-  <advance width="708"/>
+  <advance width="706"/>
   <unicode hex="00DD"/>
+  <anchor x="353" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="458" y="0" type="line"/>
-      <point x="458" y="250" type="line"/>
-      <point x="703" y="730" type="line"/>
-      <point x="483" y="730" type="line"/>
-      <point x="354" y="420" type="line"/>
-      <point x="352" y="420" type="line"/>
-      <point x="223" y="730" type="line"/>
-      <point x="3" y="730" type="line"/>
-      <point x="248" y="250" type="line"/>
-      <point x="248" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="556" y="1000" type="line"/>
-      <point x="326" y="1000" type="line"/>
-      <point x="266" y="780" type="line"/>
-      <point x="436" y="780" type="line"/>
-    </contour>
+    <component base="Y"/>
+    <component base="uni0301" xOffset="353" yOffset="220"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>w708m458,0l458,250l703,730l483,730l354,420l352,420l223,730l3,730l248,250l248,0m556,1000l326,1000l266,780l436,780</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 730 -20</string>
-          <string>hstem 780 220</string>
-          <string>vstem 248 210</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>Y+uni0301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

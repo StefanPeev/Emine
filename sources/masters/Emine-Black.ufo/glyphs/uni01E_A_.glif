@@ -2,6 +2,7 @@
 <glyph name="uni01EA" format="2">
   <advance width="820"/>
   <unicode hex="01EA"/>
+  <anchor x="410" y="790" name="top"/>
   <outline>
     <component base="O"/>
     <contour>
@@ -27,6 +28,7 @@
       <point x="265" y="-47"/>
     </contour>
   </outline>
+  <guideline angle="90" x="410" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>

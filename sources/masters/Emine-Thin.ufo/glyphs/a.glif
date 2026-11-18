@@ -3,7 +3,6 @@
   <advance width="528"/>
   <unicode hex="0061"/>
   <anchor x="264" y="590" name="top"/>
-  <anchor x="264" y="590" name="t.ring"/>
   <outline>
     <contour>
       <point x="215" y="-10" type="curve" smooth="yes"/>

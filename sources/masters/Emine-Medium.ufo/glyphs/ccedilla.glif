@@ -1,81 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ccedilla" format="2">
-  <advance width="541"/>
+  <advance width="539"/>
   <unicode hex="00E7"/>
+  <anchor x="270" y="590" name="top"/>
   <outline>
-    <contour>
-      <point x="265" y="-217" type="curve" smooth="yes"/>
-      <point x="367" y="-217"/>
-      <point x="426" y="-179"/>
-      <point x="426" y="-112" type="curve" smooth="yes"/>
-      <point x="426" y="-75"/>
-      <point x="408" y="-40"/>
-      <point x="374" y="-6" type="curve"/>
-      <point x="410" y="-1"/>
-      <point x="444" y="9"/>
-      <point x="478" y="27" type="curve"/>
-      <point x="459" y="114" type="line"/>
-      <point x="413" y="90"/>
-      <point x="370" y="80"/>
-      <point x="326" y="80" type="curve" smooth="yes"/>
-      <point x="213" y="80"/>
-      <point x="148" y="146"/>
-      <point x="148" y="260" type="curve" smooth="yes"/>
-      <point x="148" y="374"/>
-      <point x="213" y="440"/>
-      <point x="326" y="440" type="curve" smooth="yes"/>
-      <point x="370" y="440"/>
-      <point x="413" y="430"/>
-      <point x="459" y="406" type="curve"/>
-      <point x="478" y="493" type="line"/>
-      <point x="428" y="519"/>
-      <point x="378" y="530"/>
-      <point x="319" y="530" type="curve" smooth="yes"/>
-      <point x="142" y="530"/>
-      <point x="38" y="430"/>
-      <point x="38" y="260" type="curve" smooth="yes"/>
-      <point x="38" y="115"/>
-      <point x="113" y="21"/>
-      <point x="245" y="-3" type="curve"/>
-      <point x="295" y="-34"/>
-      <point x="324" y="-67"/>
-      <point x="324" y="-93" type="curve" smooth="yes"/>
-      <point x="324" y="-117"/>
-      <point x="300" y="-130"/>
-      <point x="256" y="-130" type="curve" smooth="yes"/>
-      <point x="225" y="-130"/>
-      <point x="195" y="-124"/>
-      <point x="167" y="-111" type="curve"/>
-      <point x="150" y="-196" type="line"/>
-      <point x="184" y="-210"/>
-      <point x="222" y="-217"/>
-    </contour>
+    <component base="c"/>
+    <component base="uni0327" xOffset="270" yOffset="10"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>14762434f52dfebc402aa8e91d3214c2d6c28f0b43fae192b259a076a4af7b5bf459a1353a7112b9a1d0739d81cd7a2a66b1f715f6854117b2c90d9aecc35131</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -217 87</string>
-          <string>hstem -6 86</string>
-          <string>hstem 15 -21</string>
-          <string>hstem 440 90</string>
-          <string>vstem 38 110</string>
-          <string>vstem 324 102</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>c+uni0327</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

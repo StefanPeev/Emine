@@ -2,7 +2,6 @@
 <glyph name="uni1EB7" format="2">
   <advance width="528"/>
   <unicode hex="1EB7"/>
-  <anchor x="264" y="590" name="t.ring"/>
   <outline>
     <component base="uni1EA1"/>
     <component base="uni0306" xOffset="264" yOffset="20"/>

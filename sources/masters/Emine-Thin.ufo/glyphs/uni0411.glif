@@ -5,29 +5,35 @@
   <outline>
     <contour>
       <point x="110" y="0" type="line"/>
-      <point x="270" y="0" type="line" smooth="yes"/>
-      <point x="429" y="0"/>
-      <point x="550" y="48"/>
-      <point x="550" y="215" type="curve" smooth="yes"/>
-      <point x="550" y="380"/>
-      <point x="395" y="420"/>
-      <point x="250" y="420" type="curve" smooth="yes"/>
-      <point x="130" y="420" type="line"/>
-      <point x="130" y="710" type="line"/>
-      <point x="500" y="710" type="line"/>
-      <point x="500" y="730" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="730" type="line"/>
       <point x="110" y="730" type="line"/>
     </contour>
     <contour>
-      <point x="130" y="400" type="line"/>
-      <point x="250" y="400" type="line" smooth="yes"/>
-      <point x="437" y="400"/>
-      <point x="530" y="338"/>
+      <point x="120" y="710" type="line"/>
+      <point x="502" y="710" type="line"/>
+      <point x="502" y="730" type="line"/>
+      <point x="120" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="0" type="line"/>
+      <point x="331" y="0" type="line" smooth="yes"/>
+      <point x="463" y="0"/>
+      <point x="550" y="87"/>
+      <point x="550" y="215" type="curve" smooth="yes"/>
+      <point x="550" y="337"/>
+      <point x="455" y="420"/>
+      <point x="311" y="420" type="curve" smooth="yes"/>
+      <point x="120" y="420" type="line"/>
+      <point x="120" y="400" type="line"/>
+      <point x="301" y="400" type="line" smooth="yes"/>
+      <point x="438" y="400"/>
+      <point x="530" y="325"/>
       <point x="530" y="215" type="curve" smooth="yes"/>
-      <point x="530" y="79"/>
-      <point x="443" y="20"/>
-      <point x="270" y="20" type="curve" smooth="yes"/>
-      <point x="130" y="20" type="line"/>
+      <point x="530" y="99"/>
+      <point x="448" y="20"/>
+      <point x="327" y="20" type="curve" smooth="yes"/>
+      <point x="120" y="20" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +45,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>a09d0bdb5ade49509edd273ef2878247823d16d8583e188089ebf859767d69ca9076d93913c4422d33c22b6005f3b605d368fcb6711a2762f53537a58af1f2f5</string>
+    <string>4fefd9d8f2bff5794d6d12fe5f01aae8d3cc68bc51f054d663e9b8c361c2301e2062a5fea0df98c61aa1ba2a784c151c5c6d7b3a2bc13bdecf642ccb1df87ef9</string>
     <key>hintSetList</key>
     <array>
       <dict>

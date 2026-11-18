@@ -1,111 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EA9" format="2">
-  <advance width="575"/>
+  <advance width="574"/>
   <unicode hex="1EA9"/>
+  <anchor x="287" y="590" name="t.ring"/>
+  <anchor x="287" y="-50" name="bottom"/>
+  <anchor x="287" y="-50" name="b.ring"/>
   <outline>
-    <contour>
-      <point x="181" y="-10" type="curve" smooth="yes"/>
-      <point x="243" y="-10"/>
-      <point x="302" y="16"/>
-      <point x="341" y="60" type="curve"/>
-      <point x="343" y="60" type="line"/>
-      <point x="345" y="0" type="line"/>
-      <point x="531" y="0" type="line"/>
-      <point x="531" y="330" type="line" smooth="yes"/>
-      <point x="531" y="476"/>
-      <point x="469" y="530"/>
-      <point x="302" y="530" type="curve" smooth="yes"/>
-      <point x="210" y="530"/>
-      <point x="114" y="517"/>
-      <point x="41" y="493" type="curve"/>
-      <point x="61" y="353" type="line"/>
-      <point x="127" y="376"/>
-      <point x="210" y="390"/>
-      <point x="275" y="390" type="curve" smooth="yes"/>
-      <point x="325" y="390"/>
-      <point x="335" y="380"/>
-      <point x="335" y="330" type="curve"/>
-      <point x="281" y="330" type="line" smooth="yes"/>
-      <point x="115" y="330"/>
-      <point x="21" y="265"/>
-      <point x="21" y="150" type="curve" smooth="yes"/>
-      <point x="21" y="53"/>
-      <point x="84" y="-10"/>
-    </contour>
-    <contour>
-      <point x="257" y="125" type="curve" smooth="yes"/>
-      <point x="218" y="125"/>
-      <point x="197" y="141"/>
-      <point x="197" y="170" type="curve" smooth="yes"/>
-      <point x="197" y="208"/>
-      <point x="232" y="225"/>
-      <point x="311" y="225" type="curve" smooth="yes"/>
-      <point x="335" y="225" type="line"/>
-      <point x="335" y="185" type="line" smooth="yes"/>
-      <point x="335" y="148"/>
-      <point x="304" y="125"/>
-    </contour>
-    <contour>
-      <point x="222" y="570" type="line"/>
-      <point x="281" y="670" type="line"/>
-      <point x="283" y="670" type="line"/>
-      <point x="342" y="570" type="line"/>
-      <point x="552" y="570" type="line"/>
-      <point x="392" y="790" type="line"/>
-      <point x="172" y="790" type="line"/>
-      <point x="12" y="570" type="line"/>
-    </contour>
-    <contour>
-      <point x="562" y="758" type="line"/>
-      <point x="609" y="803"/>
-      <point x="634" y="854"/>
-      <point x="634" y="904" type="curve" smooth="yes"/>
-      <point x="634" y="974"/>
-      <point x="575" y="1011"/>
-      <point x="459" y="1011" type="curve" smooth="yes"/>
-      <point x="403" y="1011"/>
-      <point x="339" y="1002"/>
-      <point x="274" y="983" type="curve"/>
-      <point x="304" y="859" type="line"/>
-      <point x="338" y="872"/>
-      <point x="376" y="880"/>
-      <point x="419" y="880" type="curve" smooth="yes"/>
-      <point x="451" y="880"/>
-      <point x="467" y="870"/>
-      <point x="467" y="851" type="curve" smooth="yes"/>
-      <point x="467" y="839"/>
-      <point x="454" y="822"/>
-      <point x="432" y="804" type="curve"/>
-    </contour>
+    <component base="a"/>
+    <component base="uni03020309" xOffset="287" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>4221df411d545c5eb7d7f62709eb7ce3ed1a1f85db79b7588974e080f3e7c22534737e2792c7bfe1250773b64e5aadfabc117a17e7ecc96b7d8fb3c6fbb28567</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 135</string>
-          <string>hstem 0 125</string>
-          <string>hstem 225 105</string>
-          <string>hstem 390 140</string>
-          <string>hstem 570 220</string>
-          <string>hstem 880 131</string>
-          <string>vstem 21 176</string>
-          <string>vstem 335 196</string>
-          <string>vstem 467 167</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>a+uni03020309</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

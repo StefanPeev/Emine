@@ -4,6 +4,7 @@
   <unicode hex="00A5"/>
   <outline>
     <contour>
+      <point x="323" y="0" type="line"/>
       <point x="343" y="0" type="line"/>
       <point x="343" y="150" type="line"/>
       <point x="593" y="150" type="line"/>
@@ -27,7 +28,6 @@
       <point x="73" y="170" type="line"/>
       <point x="73" y="150" type="line"/>
       <point x="323" y="150" type="line"/>
-      <point x="323" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,7 +39,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>4731fc59e7750c24d19c15744aed3917c0e53b2b590440452150b976ccf058a1455f7189a96f14b2b2068235ede185ac5a99ec4715439452149283e4b6e72f9f</string>
+    <string>ed9ed2ba52e199b1256f574e75241250c4580d9cde96bbca8188f11e92291304bf1d2c7a28b6372c205bd5e7bfcba21f709a5f59c7d55f455fec76efc8afd9a9</string>
     <key>hintSetList</key>
     <array>
       <dict>

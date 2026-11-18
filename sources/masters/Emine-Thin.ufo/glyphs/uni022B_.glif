@@ -1,82 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni022B" format="2">
-  <advance width="580"/>
+  <advance width="578"/>
   <unicode hex="022B"/>
+  <anchor x="289" y="-50" name="bottom"/>
   <outline>
-    <contour>
-      <point x="289" y="-10" type="curve" smooth="yes"/>
-      <point x="438" y="-10"/>
-      <point x="529" y="92"/>
-      <point x="529" y="260" type="curve" smooth="yes"/>
-      <point x="529" y="428"/>
-      <point x="438" y="530"/>
-      <point x="289" y="530" type="curve" smooth="yes"/>
-      <point x="140" y="530"/>
-      <point x="49" y="428"/>
-      <point x="49" y="260" type="curve" smooth="yes"/>
-      <point x="49" y="92"/>
-      <point x="140" y="-10"/>
-    </contour>
-    <contour>
-      <point x="289" y="10" type="curve" smooth="yes"/>
-      <point x="151" y="10"/>
-      <point x="69" y="103"/>
-      <point x="69" y="260" type="curve" smooth="yes"/>
-      <point x="69" y="417"/>
-      <point x="151" y="510"/>
-      <point x="289" y="510" type="curve" smooth="yes"/>
-      <point x="427" y="510"/>
-      <point x="509" y="417"/>
-      <point x="509" y="260" type="curve" smooth="yes"/>
-      <point x="509" y="103"/>
-      <point x="427" y="10"/>
-    </contour>
-    <contour>
-      <point x="439" y="635" type="line"/>
-      <point x="439" y="695" type="line"/>
-      <point x="379" y="695" type="line"/>
-      <point x="379" y="635" type="line"/>
-    </contour>
-    <contour>
-      <point x="199" y="635" type="line"/>
-      <point x="199" y="695" type="line"/>
-      <point x="139" y="695" type="line"/>
-      <point x="139" y="635" type="line"/>
-    </contour>
-    <contour>
-      <point x="456" y="815" type="line"/>
-      <point x="456" y="835" type="line"/>
-      <point x="122" y="835" type="line"/>
-      <point x="122" y="815" type="line"/>
-    </contour>
+    <component base="o"/>
+    <component base="uni03080304" xOffset="289" yOffset="20"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>f0076bf060c34e4f6e321ceccefbe68b5a18f0d2208fca8fd4dc04ec10e049bf5ce1951c90f0bf90b73796b1fc0fc522a6cef09d87cb3f6d6bf3ae15916914f1</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem -10 20</string>
-          <string>hstem 510 20</string>
-          <string>hstem 635 60</string>
-          <string>hstem 815 20</string>
-          <string>vstem 49 20</string>
-          <string>vstem 139 60</string>
-          <string>vstem 379 60</string>
-          <string>vstem 509 20</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>o+uni03080304</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,66 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EA4" format="2">
-  <advance width="706"/>
+  <advance width="704"/>
   <unicode hex="1EA4"/>
+  <anchor x="352" y="670" name="t.ring"/>
+  <anchor x="352" y="-50" name="bottom"/>
+  <anchor x="352" y="-50" name="b.ring"/>
   <outline>
-    <contour>
-      <point x="133" y="0" type="line"/>
-      <point x="196" y="183" type="line"/>
-      <point x="508" y="183" type="line"/>
-      <point x="571" y="0" type="line"/>
-      <point x="692" y="0" type="line"/>
-      <point x="427" y="730" type="line"/>
-      <point x="278" y="730" type="line"/>
-      <point x="12" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="230" y="283" type="line"/>
-      <point x="351" y="636" type="line"/>
-      <point x="353" y="636" type="line"/>
-      <point x="474" y="283" type="line"/>
-    </contour>
-    <contour>
-      <point x="261" y="780" type="line"/>
-      <point x="351" y="920" type="line"/>
-      <point x="353" y="920" type="line"/>
-      <point x="443" y="780" type="line"/>
-      <point x="573" y="780" type="line"/>
-      <point x="418" y="1000" type="line"/>
-      <point x="285" y="1000" type="line"/>
-      <point x="131" y="780" type="line"/>
-    </contour>
-    <contour>
-      <point x="728" y="1180" type="line"/>
-      <point x="588" y="1180" type="line"/>
-      <point x="497" y="960" type="line"/>
-      <point x="607" y="960" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="uni03020301" xOffset="352" yOffset="220"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
   <key>com.fontlab.caretAnchors</key>
   <true/>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>034ef35627bb1abace7e1e4595b9811e1ca7ff729ba5f22b73d64f235dbac396463006f050e40ca03b6666c9a3b094874d8a44d06c65eeded7aab53531753fea</string>
-    <key>hintSetList</key>
-    <array>
-      <dict>
-        <key>stems</key>
-        <array>
-          <string>hstem 21 -21</string>
-          <string>hstem 183 100</string>
-          <string>hstem 636 94</string>
-          <string>hstem 730 -20</string>
-          <string>hstem 960 40</string>
-          <string>vstem 12 716</string>
-        </array>
-      </dict>
-    </array>
-  </dict>
+  <key>com.fontlab.recipe</key>
+  <string>A+uni03020301</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

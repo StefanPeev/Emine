@@ -2,7 +2,6 @@
 <glyph name="acircumflex" format="2">
   <advance width="528"/>
   <unicode hex="00E2"/>
-  <anchor x="264" y="590" name="t.ring"/>
   <outline>
     <component base="a"/>
     <component base="uni0302" xOffset="264" yOffset="20"/>
