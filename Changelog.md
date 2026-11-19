@@ -4,6 +4,7 @@ When you update your font (new version or new release), please report all notabl
 
 * November 19, 2026 Version 1.011  
   - Variable font added.  
+  - Python script [analyze_ufo_advanced.py](https://github.com/StefanPeev/Emine/tree/main/scripts) added for testing Unicode coverage by blocks and by glyphs. See the reports for [Emine-Thin.ufo, Emine-Medium.ufo, Emine-Black.ufo](https://github.com/StefanPeev/Emine/tree/main/documentation/unicode_reports).
   
 * November 18, 2026 Version 1.008  
   - Expanding the Cyrillic script with local forms for Bulgarian, Serbian, North Macedonian.  
