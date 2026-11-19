@@ -3,7 +3,7 @@
 Emine
 ============
 
-This project represents a major revision of the [MPLUS font](https://github.com/coz-m/MPLUS_FONTS) family. Non-European writing systems have been removed, while the international form of the Cyrillic script—along with the specific variant used in Bulgaria, Serbia, North Macedonia—has been added. Future development of the project will expand the range of localized Cyrillic forms to include those for for non-Slavic languages ​​that use the Cyrillic script.  
+This project represents a major revision of the [MPLUS font](https://github.com/coz-m/MPLUS_FONTS) family, created by Japanese typographer Coji Morishita. Morishita’s original design has undergone significant transformation: non-European scripts have been removed, Latin character set has been substantially expanded, international Cyrillic and localized forms for Bulgarian, Serbian, North Macedonian Cyrillic were included. Future development of the project will expand the range of localized Cyrillic forms to include those for for non-Slavic languages ​​that use the Cyrillic script. Emine is available in nine weights, ranging from “Thin” to “Black”. From v.1.011 there is also a variable font.  
   
 Acknowledgements
 ----------------
