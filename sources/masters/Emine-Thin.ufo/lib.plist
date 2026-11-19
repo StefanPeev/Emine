@@ -140,7 +140,6 @@
     <string>asciicircum</string>
     <string>underscore</string>
     <string>grave</string>
-    <string>a</string>
     <string>b</string>
     <string>c</string>
     <string>d</string>
@@ -523,7 +522,7 @@
     <string>wdieresis</string>
     <string>Germandbls</string>
     <string>uni1EA0</string>
-    <string>uni1EA1</string>
+    <string>a</string>
     <string>uni1EA2</string>
     <string>uni1EA3</string>
     <string>uni1EA4</string>

@@ -2,6 +2,9 @@
 
 When you update your font (new version or new release), please report all notable changes here, with a date. 
 
+* November 19, 2026 Version 1.011  
+  - Variable font added.  
+  
 * November 18, 2026 Version 1.008  
   - Expanding the Cyrillic script with local forms for Bulgarian, Serbian, North Macedonian.  
   

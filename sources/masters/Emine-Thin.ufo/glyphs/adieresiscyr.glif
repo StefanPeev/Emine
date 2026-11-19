@@ -2,6 +2,9 @@
 <glyph name="adieresiscyr" format="2">
   <advance width="539"/>
   <unicode hex="04D3"/>
+  <anchor x="275" y="590" name="t.ring"/>
+  <anchor x="275" y="-50" name="bottom"/>
+  <anchor x="275" y="-50" name="b.ring"/>
   <outline>
     <component base="uni0430"/>
     <component base="uni0308" xOffset="275" yOffset="20"/>

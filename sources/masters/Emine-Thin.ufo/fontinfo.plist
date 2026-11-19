@@ -95,7 +95,7 @@ Copyright 2021 The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONT
     <key>languageID</key>
     <integer>1033</integer>
     <key>string</key>
-    <string>Macedonian Cyrillic</string>
+    <string>Serbian Cyrillic</string>
   </dict>
   <dict>
     <key>nameID</key>
@@ -111,7 +111,7 @@ Copyright 2021 The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONT
   </dict>
   </array>
   <key>openTypeNameVersion</key>
-  <string>Version 1.008</string>
+  <string>Version 1.011</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -247,7 +247,7 @@ Copyright 2021 The M+ FONTS Project Authors (https://github.com/coz-m/MPLUS_FONT
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>8</integer>
+  <integer>11</integer>
   <key>xHeight</key>
   <integer>520</integer>
 </dict>

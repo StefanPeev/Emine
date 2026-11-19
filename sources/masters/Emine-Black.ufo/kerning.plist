@@ -290,8 +290,6 @@
     <integer>-45</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -1453,8 +1451,6 @@
     <integer>-100</integer>
     <key>uni0259</key>
     <integer>-135</integer>
-    <key>uni1EA1</key>
-    <integer>-125</integer>
     <key>uni1EA3</key>
     <integer>-70</integer>
     <key>uni1EA5</key>
@@ -1698,8 +1694,6 @@
     <integer>-45</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -1961,8 +1955,6 @@
     <integer>-100</integer>
     <key>uni0259</key>
     <integer>-135</integer>
-    <key>uni1EA1</key>
-    <integer>-125</integer>
     <key>uni1EA3</key>
     <integer>-70</integer>
     <key>uni1EA5</key>
@@ -2319,8 +2311,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -2654,8 +2644,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -2881,8 +2869,6 @@
     <integer>-45</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -3060,8 +3046,6 @@
     <integer>-45</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -3239,8 +3223,6 @@
     <integer>-45</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -3418,8 +3400,6 @@
     <integer>-45</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -3597,8 +3577,6 @@
     <integer>-45</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -3899,8 +3877,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -4254,8 +4230,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -4609,8 +4583,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -4964,8 +4936,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -5319,8 +5289,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -7367,8 +7335,6 @@
     <integer>-125</integer>
     <key>uni1EA0</key>
     <integer>-160</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA2</key>
     <integer>-160</integer>
     <key>uni1EA3</key>
@@ -7652,8 +7618,6 @@
     <integer>-10</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -9086,8 +9050,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -11706,8 +11668,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -14153,8 +14113,6 @@
     <integer>-240</integer>
     <key>uni0331</key>
     <integer>-240</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -14528,8 +14486,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -15740,8 +15696,6 @@
     <integer>-100</integer>
     <key>uni0259</key>
     <integer>-135</integer>
-    <key>uni1EA1</key>
-    <integer>-125</integer>
     <key>uni1EA3</key>
     <integer>-70</integer>
     <key>uni1EA5</key>
@@ -17264,8 +17218,6 @@
     <integer>-100</integer>
     <key>uni0259</key>
     <integer>-135</integer>
-    <key>uni1EA1</key>
-    <integer>-125</integer>
     <key>uni1EA3</key>
     <integer>-70</integer>
     <key>uni1EA5</key>
@@ -17836,8 +17788,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -18274,57 +18224,6 @@
     <integer>-30</integer>
     <key>semicolon</key>
     <integer>30</integer>
-  </dict>
-  <key>uni1EA1</key>
-  <dict>
-    <key>Hbar</key>
-    <integer>-55</integer>
-    <key>T</key>
-    <integer>-130</integer>
-    <key>Tbar</key>
-    <integer>-55</integer>
-    <key>Tcaron</key>
-    <integer>-130</integer>
-    <key>V</key>
-    <integer>-70</integer>
-    <key>W</key>
-    <integer>-55</integer>
-    <key>Wacute</key>
-    <integer>-55</integer>
-    <key>Wcircumflex</key>
-    <integer>-55</integer>
-    <key>Wdieresis</key>
-    <integer>-55</integer>
-    <key>Wgrave</key>
-    <integer>-55</integer>
-    <key>Y</key>
-    <integer>-125</integer>
-    <key>Yacute</key>
-    <integer>-125</integer>
-    <key>Ycircumflex</key>
-    <integer>-125</integer>
-    <key>Ydieresis</key>
-    <integer>-125</integer>
-    <key>Ygrave</key>
-    <integer>-125</integer>
-    <key>backslash</key>
-    <integer>-70</integer>
-    <key>hbar</key>
-    <integer>-55</integer>
-    <key>uni0162</key>
-    <integer>-130</integer>
-    <key>uni021A</key>
-    <integer>-130</integer>
-    <key>uni0232</key>
-    <integer>-125</integer>
-    <key>uni1EF4</key>
-    <integer>-125</integer>
-    <key>uni1EF6</key>
-    <integer>-125</integer>
-    <key>uni1EF8</key>
-    <integer>-125</integer>
-    <key>yen</key>
-    <integer>-55</integer>
   </dict>
   <key>uni1EA2</key>
   <dict>
@@ -20304,8 +20203,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -20674,8 +20571,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -21044,8 +20939,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -21414,8 +21307,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -21784,8 +21675,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -22152,8 +22041,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -22574,8 +22461,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -22964,8 +22849,6 @@
     <integer>-80</integer>
     <key>uni0259</key>
     <integer>-125</integer>
-    <key>uni1EA1</key>
-    <integer>-120</integer>
     <key>uni1EA3</key>
     <integer>-80</integer>
     <key>uni1EA5</key>
@@ -23413,8 +23296,6 @@
     <integer>-70</integer>
     <key>uni0259</key>
     <integer>-70</integer>
-    <key>uni1EA1</key>
-    <integer>-60</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
@@ -24163,8 +24044,6 @@
     <integer>-45</integer>
     <key>uni0237</key>
     <integer>-50</integer>
-    <key>uni1EA1</key>
-    <integer>-45</integer>
     <key>uni1EA3</key>
     <integer>-40</integer>
     <key>uni1EA5</key>
