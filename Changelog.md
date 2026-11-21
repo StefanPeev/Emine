@@ -6,7 +6,8 @@ When you update your font (new version or new release), please report all notabl
   - Cyrillic Capital Letter Ghe With Upturn, Cyrillic Small Letter Ghe With Upturn added for Ukrainian support.  
   - Expanding the Cyrillic script with local forms for Ukrainian, Belarusian Scripts.
   - Total unique Unicode codepoints in font: 1220  
-  - Total active Unicode blocks detected: 23
+  - Total active Unicode blocks detected: 23  
+  
 | Unicode Block Name | Unicode Range | Found / Total | Coverage % |
 | :--- | :--- | :---: | :---: |
 | Basic Latin | `U+0000..U+007F` | 97 / 128 | 75.78% |
