@@ -4,6 +4,7 @@
   <unicode hex="004F"/>
   <anchor x="410" y="790" name="top"/>
   <anchor x="410" y="-50" name="bottom"/>
+  <anchor x="748" y="535" name="t.horn"/>
   <outline>
     <contour>
       <point x="410" y="-10" type="curve" smooth="yes"/>
@@ -35,6 +36,7 @@
     </contour>
   </outline>
   <guideline angle="90" x="410" y="0"/>
+  <guideline angle="0" x="0" y="785"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>

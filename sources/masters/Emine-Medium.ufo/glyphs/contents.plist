@@ -70,6 +70,8 @@
   <string>C_dotaccent.glif</string>
   <key>Checyr</key>
   <string>C_hecyr.glif</string>
+  <key>Chedieresiscyr</key>
+  <string>C_hedieresiscyr.glif</string>
   <key>D</key>
   <string>D_.glif</string>
   <key>DZ</key>
@@ -130,6 +132,8 @@
   <string>E_ng.glif</string>
   <key>Eogonek</key>
   <string>E_ogonek.glif</string>
+  <key>Ereversed</key>
+  <string>E_reversed.glif</string>
   <key>Ereversedcyr</key>
   <string>E_reversedcyr.glif</string>
   <key>Ereverseddieresiscyr</key>
@@ -162,6 +166,8 @@
   <string>G_dotaccent.glif</string>
   <key>Germandbls</key>
   <string>G_ermandbls.glif</string>
+  <key>Geupcyr</key>
+  <string>G_eupcyr.glif</string>
   <key>Gjecyr</key>
   <string>G_jecyr.glif</string>
   <key>Gmacron</key>
@@ -512,6 +518,8 @@
   <string>Y_grave.glif</string>
   <key>Ylongcyr</key>
   <string>Y_longcyr.glif</string>
+  <key>Ylongdieresiscyr</key>
+  <string>Y_longdieresiscyr.glif</string>
   <key>Yucyr</key>
   <string>Y_ucyr.glif</string>
   <key>Yukrcyr</key>
@@ -528,6 +536,10 @@
   <string>Z_dotaccent.glif</string>
   <key>Zdotbelow</key>
   <string>Z_dotbelow.glif</string>
+  <key>Zhebrevecyr</key>
+  <string>Z_hebrevecyr.glif</string>
+  <key>Zhedieresiscyr</key>
+  <string>Z_hedieresiscyr.glif</string>
   <key>Zlinebelow</key>
   <string>Z_linebelow.glif</string>
   <key>a</key>
@@ -550,6 +562,8 @@
   <string>adieresiscyr.glif</string>
   <key>adieresismacron</key>
   <string>adieresismacron.glif</string>
+  <key>adotbelow</key>
+  <string>adotbelow.glif</string>
   <key>adotmacron</key>
   <string>adotmacron.glif</string>
   <key>ae</key>
@@ -648,6 +662,8 @@
   <string>cent.glif</string>
   <key>checyr</key>
   <string>checyr.glif</string>
+  <key>chedieresiscyr</key>
+  <string>chedieresiscyr.glif</string>
   <key>circumflex</key>
   <string>circumflex.glif</string>
   <key>colon</key>
@@ -774,8 +790,14 @@
   <string>eturned.glif</string>
   <key>eukrcyr</key>
   <string>eukrcyr.glif</string>
+  <key>euroarchaic</key>
+  <string>euroarchaic.glif</string>
   <key>exclam</key>
   <string>exclam.glif</string>
+  <key>exclamationquestion</key>
+  <string>exclamationquestion.glif</string>
+  <key>exclamdbl</key>
+  <string>exclamdbl.glif</string>
   <key>exclamdown</key>
   <string>exclamdown.glif</string>
   <key>f</key>
@@ -830,6 +852,8 @@
   <string>gecyr.loclB_G_R_.glif</string>
   <key>germandbls</key>
   <string>germandbls.glif</string>
+  <key>geupcyr</key>
+  <string>geupcyr.glif</string>
   <key>gjecyr</key>
   <string>gjecyr.glif</string>
   <key>gmacron</key>
@@ -872,6 +896,8 @@
   <string>hdotbelow.glif</string>
   <key>hlinebelow</key>
   <string>hlinebelow.glif</string>
+  <key>hryvnia</key>
+  <string>hryvnia.glif</string>
   <key>hungarumlaut</key>
   <string>hungarumlaut.glif</string>
   <key>hyphen</key>
@@ -1128,6 +1154,8 @@
   <string>periodcentered.loclC_A_T_.glif</string>
   <key>periodcenteredcomb</key>
   <string>periodcenteredcomb.glif</string>
+  <key>pertenthousandsign</key>
+  <string>pertenthousandsign.glif</string>
   <key>perthousand</key>
   <string>perthousand.glif</string>
   <key>peseta</key>
@@ -1140,8 +1168,12 @@
   <string>q.glif</string>
   <key>question</key>
   <string>question.glif</string>
+  <key>questiondbl</key>
+  <string>questiondbl.glif</string>
   <key>questiondown</key>
   <string>questiondown.glif</string>
+  <key>questionexclamationmark</key>
+  <string>questionexclamationmark.glif</string>
   <key>quotedbl</key>
   <string>quotedbl.glif</string>
   <key>quotedblbase</key>
@@ -1252,6 +1284,8 @@
   <string>tecyr.glif</string>
   <key>tecyr.loclBGR</key>
   <string>tecyr.loclB_G_R_.glif</string>
+  <key>tenge</key>
+  <string>tenge.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>three</key>
@@ -1272,12 +1306,16 @@
   <string>triagdn.glif</string>
   <key>triagup</key>
   <string>triagup.glif</string>
+  <key>triangularbullet</key>
+  <string>triangularbullet.glif</string>
   <key>tsecyr</key>
   <string>tsecyr.glif</string>
   <key>tsecyr.loclBGR</key>
   <string>tsecyr.loclB_G_R_.glif</string>
   <key>tshecyr</key>
   <string>tshecyr.glif</string>
+  <key>tugrik</key>
+  <string>tugrik.glif</string>
   <key>two</key>
   <string>two.glif</string>
   <key>two.lf</key>
@@ -1336,8 +1374,6 @@
   <string>uni000D_.glif</string>
   <key>uni00A0</key>
   <string>uni00A_0.glif</string>
-  <key>uni00AD</key>
-  <string>uni00A_D_.glif</string>
   <key>uni00B5</key>
   <string>uni00B_5.glif</string>
   <key>uni0122</key>
@@ -2142,88 +2178,6 @@
   <string>uni25B_6.glif</string>
   <key>uni25C0</key>
   <string>uni25C_0.glif</string>
-  <key>uni3000</key>
-  <string>uni3000.glif</string>
-  <key>uni3001</key>
-  <string>uni3001.glif</string>
-  <key>uni3002</key>
-  <string>uni3002.glif</string>
-  <key>uni3003</key>
-  <string>uni3003.glif</string>
-  <key>uni3004</key>
-  <string>uni3004.glif</string>
-  <key>uni3008</key>
-  <string>uni3008.glif</string>
-  <key>uni3009</key>
-  <string>uni3009.glif</string>
-  <key>uni300A</key>
-  <string>uni300A_.glif</string>
-  <key>uni300B</key>
-  <string>uni300B_.glif</string>
-  <key>uni300C</key>
-  <string>uni300C_.glif</string>
-  <key>uni300D</key>
-  <string>uni300D_.glif</string>
-  <key>uni300E</key>
-  <string>uni300E_.glif</string>
-  <key>uni300F</key>
-  <string>uni300F_.glif</string>
-  <key>uni3010</key>
-  <string>uni3010.glif</string>
-  <key>uni3011</key>
-  <string>uni3011.glif</string>
-  <key>uni3012</key>
-  <string>uni3012.glif</string>
-  <key>uni3013</key>
-  <string>uni3013.glif</string>
-  <key>uni3014</key>
-  <string>uni3014.glif</string>
-  <key>uni3015</key>
-  <string>uni3015.glif</string>
-  <key>uni3016</key>
-  <string>uni3016.glif</string>
-  <key>uni3017</key>
-  <string>uni3017.glif</string>
-  <key>uni3018</key>
-  <string>uni3018.glif</string>
-  <key>uni3019</key>
-  <string>uni3019.glif</string>
-  <key>uni301A</key>
-  <string>uni301A_.glif</string>
-  <key>uni301B</key>
-  <string>uni301B_.glif</string>
-  <key>uni301C</key>
-  <string>uni301C_.glif</string>
-  <key>uni301D</key>
-  <string>uni301D_.glif</string>
-  <key>uni301E</key>
-  <string>uni301E_.glif</string>
-  <key>uni301F</key>
-  <string>uni301F_.glif</string>
-  <key>uni3030</key>
-  <string>uni3030.glif</string>
-  <key>uni3031</key>
-  <string>uni3031.glif</string>
-  <key>uni3032</key>
-  <string>uni3032.glif</string>
-  <key>uni3033</key>
-  <string>uni3033.glif</string>
-  <key>uni3034</key>
-  <string>uni3034.glif</string>
-  <key>uni3035</key>
-  <string>uni3035.glif</string>
-  <key>uni303C</key>
-  <string>uni303C_.glif</string>
-  <key>uni303D</key>
-  <string>uni303D_.glif</string>
-  <key>uni3099</key>
-  <string>uni3099.glif</string>
-  <key>uni309A</key>
-  <string>uni309A_.glif</string>
-  <key>uni30FB</key>
-  <string>uni30F_B_.glif</string>
-  <key>uni30FC</key>
-  <string>uni30F_C_.glif</string>
   <key>uniFF01</key>
   <string>uniF_F_01.glif</string>
   <key>uniFF02</key>
@@ -2484,6 +2438,8 @@
   <string>ylongcyr.glif</string>
   <key>ylongcyr.loclBGR</key>
   <string>ylongcyr.loclB_G_R_.glif</string>
+  <key>ylongdieresiscyr</key>
+  <string>ylongdieresiscyr.glif</string>
   <key>yring</key>
   <string>yring.glif</string>
   <key>yucyr</key>
@@ -2512,10 +2468,14 @@
   <string>zero.glif</string>
   <key>zero.lf</key>
   <string>zero.lf.glif</string>
+  <key>zhebrevecyr</key>
+  <string>zhebrevecyr.glif</string>
   <key>zhecyr</key>
   <string>zhecyr.glif</string>
   <key>zhecyr.loclBGR</key>
   <string>zhecyr.loclB_G_R_.glif</string>
+  <key>zhedieresiscyr</key>
+  <string>zhedieresiscyr.glif</string>
   <key>zlinebelow</key>
   <string>zlinebelow.glif</string>
 </dict>

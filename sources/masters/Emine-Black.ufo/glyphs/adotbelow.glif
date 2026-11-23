@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="adotbelow" format="2">
+  <advance width="574"/>
+  <unicode hex="1EA1"/>
+  <anchor x="287" y="590" name="top"/>
+  <anchor x="287" y="590" name="t.ring"/>
+  <anchor x="287" y="-50" name="b.ring"/>
+  <outline>
+    <contour>
+      <point x="181" y="-10" type="curve" smooth="yes"/>
+      <point x="243" y="-10"/>
+      <point x="302" y="16"/>
+      <point x="341" y="60" type="curve"/>
+      <point x="343" y="60" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="531" y="0" type="line"/>
+      <point x="531" y="330" type="line" smooth="yes"/>
+      <point x="531" y="476"/>
+      <point x="469" y="530"/>
+      <point x="295" y="530" type="curve" smooth="yes"/>
+      <point x="210" y="530"/>
+      <point x="114" y="517"/>
+      <point x="41" y="493" type="curve"/>
+      <point x="61" y="353" type="line"/>
+      <point x="127" y="376"/>
+      <point x="210" y="390"/>
+      <point x="272" y="390" type="curve" smooth="yes"/>
+      <point x="325" y="390"/>
+      <point x="335" y="380"/>
+      <point x="335" y="330" type="curve"/>
+      <point x="281" y="330" type="line" smooth="yes"/>
+      <point x="115" y="330"/>
+      <point x="21" y="265"/>
+      <point x="21" y="148" type="curve" smooth="yes"/>
+      <point x="21" y="53"/>
+      <point x="84" y="-10"/>
+    </contour>
+    <contour>
+      <point x="257" y="125" type="curve" smooth="yes"/>
+      <point x="218" y="125"/>
+      <point x="197" y="141"/>
+      <point x="197" y="170" type="curve" smooth="yes"/>
+      <point x="197" y="208"/>
+      <point x="232" y="225"/>
+      <point x="311" y="225" type="curve" smooth="yes"/>
+      <point x="335" y="225" type="line"/>
+      <point x="335" y="185" type="line" smooth="yes"/>
+      <point x="335" y="148"/>
+      <point x="304" y="125"/>
+    </contour>
+    <contour>
+      <point x="382" y="-230" type="line"/>
+      <point x="382" y="-40" type="line"/>
+      <point x="192" y="-40" type="line"/>
+      <point x="192" y="-230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>/A /U /u /w /y /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Ugrave /Uacute /Ucircumflex /Udieresis /agrave /aacute /acircumflex /atilde /adieresis /ugrave /uacute /ucircumflex /udieresis /yacute /ydieresis /Amacron /amacron /Abreve /abreve /Utilde /utilde /Umacron /umacron /Ubreve /ubreve /Uhungarumlaut /uhungarumlaut /wcircumflex /ycircumflex /Uhorn /uhorn /uni0200 /uni0201 /uni0202 /uni0203 /uni0214 /uni0215 /uni0216 /uni0217 /uni0226 /uni0227 /uni0233 /uni0410 /uni0430 /wgrave /wacute /wdieresis /uni1EA0 /a /uni1EA2 /uni1EA3 /uni1EA4 /uni1EA5 /uni1EA6 /uni1EA7 /uni1EA8 /uni1EA9 /uni1EAA /uni1EAB /uni1EAC /uni1EAD /uni1EB4 /uni1EB5 /uni1EB6 /uni1EB7 /uni1EE4 /uni1EE5 /uni1EE6 /uni1EE7 /uni1EE8 /uni1EE9 /uni1EEA /uni1EEB /uni1EEC /uni1EED /uni1EEE /uni1EEF /uni1EF0 /uni1EF1 /ygrave /uni1EF5 /uni1EF7 /uni1EF9 /icyr.loclBGR /ishortcyr.loclBGR /igravecyr.loclBGR /wdot /wdotbelow /ydot /Udieresisbelow /udieresisbelow /Utildebelow /utildebelow /Ucircumflexbelow /ucircumflexbelow /Utildeacute /utildeacute /Umacrondieresis /umacrondieresis /Acaron /acaron /Ucaron /ucaron /Aringbelow /aringbelow /Udieresismacron /udieresismacron /Adotmacron /adotmacron /Adieresismacron /adieresismacron /Abrevecyr /abrevecyr /Adieresiscyr /adieresiscyr /Udieresisacute /udieresisacute /Udieresiscaron /udieresiscaron /Udieresisgrave /udieresisgrave /adotbelow</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>200bbc77fdf893b1dd62299790f1b6cbf553fe472293dc4c85953e41ee7cc3045e699e3ba48bd7d63dedbda46216990e7d16b5587f3ec8e902583991ca710d81</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -230 190</string>
+          <string>vstem 311 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

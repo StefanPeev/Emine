@@ -3,8 +3,35 @@
   <advance width="853"/>
   <unicode hex="0149"/>
   <outline>
-    <component base="uni02BC"/>
-    <component base="n" xOffset="226"/>
+    <contour>
+      <point x="192" y="470" type="line"/>
+      <point x="312" y="770" type="line"/>
+      <point x="102" y="770" type="line"/>
+      <point x="42" y="470" type="line"/>
+    </contour>
+    <contour>
+      <point x="476" y="0" type="line"/>
+      <point x="476" y="300" type="line" smooth="yes"/>
+      <point x="476" y="341"/>
+      <point x="509" y="370"/>
+      <point x="555" y="370" type="curve" smooth="yes"/>
+      <point x="597" y="370"/>
+      <point x="614" y="345"/>
+      <point x="614" y="280" type="curve" smooth="yes"/>
+      <point x="614" y="0" type="line"/>
+      <point x="810" y="0" type="line"/>
+      <point x="810" y="320" type="line" smooth="yes"/>
+      <point x="810" y="466"/>
+      <point x="756" y="530"/>
+      <point x="635" y="530" type="curve" smooth="yes"/>
+      <point x="565" y="530"/>
+      <point x="516" y="509"/>
+      <point x="470" y="460" type="curve"/>
+      <point x="468" y="460" type="line"/>
+      <point x="466" y="520" type="line"/>
+      <point x="280" y="520" type="line"/>
+      <point x="280" y="0" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -16,6 +43,28 @@
   <string>=n</string>
   <key>com.fontlab.recipe</key>
   <string>uni02BC_n</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>b7dd4ed8a3d6fd85dd1184c5a7739aebf394aa7f03b4e41d350134baee6fbd43c73244d39d34e3a9c73661180380a03f66d04853a2cfa2b01fb372a01bcba226</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 370 150</string>
+          <string>hstem 470 300</string>
+          <string>hstem 530 -20</string>
+          <string>vstem 42 270</string>
+          <string>vstem 280 196</string>
+          <string>vstem 614 196</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

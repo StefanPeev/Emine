@@ -2,8 +2,14 @@
 <glyph name="zhecyr" format="2">
   <advance width="824"/>
   <unicode hex="0436"/>
+  <anchor x="412" y="590" name="top"/>
   <outline>
-    <component base="dotlessi" xOffset="273"/>
+    <contour>
+      <point x="467" y="0" type="line"/>
+      <point x="467" y="520" type="line"/>
+      <point x="357" y="520" type="line"/>
+      <point x="357" y="0" type="line"/>
+    </contour>
     <contour>
       <point x="467" y="228" type="line"/>
       <point x="555" y="228" type="line"/>
@@ -33,6 +39,7 @@
       <point x="357" y="228" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="412" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>

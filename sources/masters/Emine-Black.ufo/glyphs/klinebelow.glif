@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="klinebelow" format="2">
-  <advance width="624"/>
+  <advance width="629"/>
   <unicode hex="1E35"/>
-  <anchor x="312" y="790" name="top"/>
+  <anchor x="317" y="790" name="top"/>
   <outline>
     <component base="k"/>
-    <component base="uni0331" xOffset="312"/>
+    <component base="uni0331" xOffset="317"/>
   </outline>
   <lib>
   <dict>

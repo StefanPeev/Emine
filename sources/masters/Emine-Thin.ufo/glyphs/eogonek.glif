@@ -3,7 +3,6 @@
   <advance width="548"/>
   <unicode hex="0119"/>
   <outline>
-    <component base="e"/>
     <contour>
       <point x="410" y="-190" type="curve"/>
       <point x="434" y="-190"/>
@@ -26,6 +25,39 @@
       <point x="337" y="-158"/>
       <point x="362" y="-190"/>
     </contour>
+    <contour>
+      <point x="300" y="-10" type="curve"/>
+      <point x="362" y="-10"/>
+      <point x="426" y="4"/>
+      <point x="478" y="30" type="curve"/>
+      <point x="469" y="48" type="line"/>
+      <point x="420" y="24"/>
+      <point x="360" y="10"/>
+      <point x="300" y="10" type="curve" smooth="yes"/>
+      <point x="151" y="10"/>
+      <point x="68" y="96"/>
+      <point x="68" y="258" type="curve" smooth="yes"/>
+      <point x="68" y="397"/>
+      <point x="130" y="510"/>
+      <point x="283" y="510" type="curve" smooth="yes"/>
+      <point x="408" y="510"/>
+      <point x="478" y="431"/>
+      <point x="478" y="278" type="curve"/>
+      <point x="59" y="278" type="line"/>
+      <point x="59" y="258" type="line"/>
+      <point x="496" y="258" type="line"/>
+      <point x="498" y="265"/>
+      <point x="498" y="272"/>
+      <point x="498" y="278" type="curve" smooth="yes"/>
+      <point x="498" y="438"/>
+      <point x="423" y="530"/>
+      <point x="283" y="530" type="curve" smooth="yes"/>
+      <point x="136" y="530"/>
+      <point x="48" y="428"/>
+      <point x="48" y="260" type="curve" smooth="yes"/>
+      <point x="48" y="87"/>
+      <point x="138" y="-10"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -36,7 +68,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f8c075886250f25dc2c01c6ec11ab60b667a0636f7f3f5b685a6af2e4ebde52c2a0ff7b2380a8931dbf955dd387df1859a4c34dba1e8bc6e1237628bc124d0ec</string>
+    <string>359ceacbff0f17336dee3056d906233e03df836d661b2bc4f30a544967e64ea4e11e4601005e8b5a5c9ee8d9efcd38ad845a2498b3b217a62d6da41e0bdabbbc</string>
     <key>hintSetList</key>
     <array>
       <dict>

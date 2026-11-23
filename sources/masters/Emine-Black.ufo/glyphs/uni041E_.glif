@@ -4,6 +4,7 @@
   <unicode hex="041E"/>
   <anchor x="410" y="790" name="top"/>
   <anchor x="410" y="-50" name="bottom"/>
+  <anchor x="748" y="535" name="t.horn"/>
   <outline>
     <component base="O"/>
   </outline>

@@ -2,8 +2,28 @@
 <glyph name="uni0308030C" format="2">
   <anchor x="0" y="570" name="_top"/>
   <outline>
-    <component base="uni0308"/>
-    <component base="uni030C" yOffset="150"/>
+    <contour>
+      <point x="150" y="635" type="line"/>
+      <point x="150" y="695" type="line"/>
+      <point x="90" y="695" type="line"/>
+      <point x="90" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="-90" y="635" type="line"/>
+      <point x="-90" y="695" type="line"/>
+      <point x="-150" y="695" type="line"/>
+      <point x="-150" y="635" type="line"/>
+    </contour>
+    <contour>
+      <point x="-172" y="940" type="line"/>
+      <point x="-15" y="720" type="line"/>
+      <point x="15" y="720" type="line"/>
+      <point x="172" y="940" type="line"/>
+      <point x="147" y="940" type="line"/>
+      <point x="1" y="734" type="line"/>
+      <point x="-1" y="734" type="line"/>
+      <point x="-147" y="940" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-90" y="0"/>
   <guideline angle="90" x="90" y="0"/>
@@ -15,6 +35,26 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>dieresiscomb_caroncomb</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>bee11bf0718032bd0d1ab1e3b966158dbe2abd52596b46ed11042f91008b00d33fd845682fd10e1b4d831154b3d5a760a3cfd759e2e2a69ce187a0ede4c44f17</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 635 60</string>
+          <string>hstem 720 14</string>
+          <string>vstem 33 60</string>
+          <string>vstem 33 344</string>
+          <string>vstem 273 60</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='utf-8'?>
 <designspace format="4.0">
  <axes>
-  <axis tag="wght" maximum="900" minimum="100" name="weight" default="100">
+  <axis name="weight" tag="wght" minimum="100" maximum="900" default="100">
    <labelname xml:lang="en">Weight</labelname>
    <map input="100" output="100"/>
-   <map input="500" output="500"/>
-   <map input="900" output="900"/>
+   <map input="200" output="191.509"/>
+   <map input="300" output="283.019"/>
+   <map input="400" output="377.358"/>
+   <map input="500" output="471.698"/>
+   <map input="600" output="566.038"/>
+   <map input="700" output="660.377"/>
+   <map input="800" output="754.717"/>
+   <map input="900" output="849.057"/>
   </axis>
  </axes>
  <sources>
-  <source stylename="Black" name="Black" familyname="Emine" filename="masters/Emine-Black.ufo">
+  <source name="Black" familyname="Emine" filename="masters/Emine-Black.ufo" stylename="Black">
    <location>
-    <dimension name="weight" xvalue="900"/>
+    <dimension name="weight" xvalue="849.057"/>
    </location>
   </source>
-  <source stylename="Medium" name="Medium" familyname="Emine" filename="masters/Emine-Medium.ufo">
+  <source name="Medium" familyname="Emine" filename="masters/Emine-Medium.ufo" stylename="Medium">
    <location>
-    <dimension name="weight" xvalue="500"/>
+    <dimension name="weight" xvalue="471.698"/>
    </location>
   </source>
-  <source stylename="Thin" name="Thin" familyname="Emine" filename="masters/Emine-Thin.ufo">
+  <source name="Thin" familyname="Emine" filename="masters/Emine-Thin.ufo" stylename="Thin">
    <lib copy="1"/>
    <groups copy="1"/>
    <info copy="1"/>
@@ -30,49 +36,44 @@
   </source>
  </sources>
  <instances>
-  <instance stylename="Thin" name="Thin" familyname="Emine" filename="instances/Emine-Thin.ufo">
+  <instance name="Thin" familyname="Emine" filename="instances/Emine-Thin.ufo" stylename="Thin">
    <location>
-    <dimension name="weight" xvalue="100"/>
+    <dimension name="weight" xvalue="142.857"/>
    </location>
   </instance>
-  <instance stylename="ExtraLight" name="ExtraLight" familyname="Emine" filename="instances/Emine-ExtraLight.ufo">
+  <instance name="ExtraLight" familyname="Emine" filename="instances/Emine-ExtraLight.ufo" stylename="ExtraLight">
    <location>
-    <dimension name="weight" xvalue="200"/>
+    <dimension name="weight" xvalue="232.143"/>
    </location>
   </instance>
-  <instance stylename="Light" name="Light" familyname="Emine" filename="instances/Emine-Light.ufo">
+  <instance name="Light" familyname="Emine" filename="instances/Emine-Light.ufo" stylename="Light">
    <location>
-    <dimension name="weight" xvalue="300"/>
+    <dimension name="weight" xvalue="321.429"/>
    </location>
   </instance>
-  <instance stylename="Regular" name="Regular" familyname="Emine" filename="instances/Emine-Regular.ufo">
+  <instance name="Regular" familyname="Emine" filename="instances/Emine-Regular.ufo" stylename="Regular">
    <location>
-    <dimension name="weight" xvalue="400"/>
+    <dimension name="weight" xvalue="410.714"/>
    </location>
   </instance>
-  <instance stylename="Medium" name="Medium" familyname="Emine" filename="instances/Emine-Medium.ufo">
+  <instance name="Medium" familyname="Emine" filename="instances/Emine-Medium.ufo" stylename="Medium">
    <location>
     <dimension name="weight" xvalue="500"/>
    </location>
   </instance>
-  <instance stylename="SemiBold" name="SemiBold" familyname="Emine" filename="instances/Emine-SemiBold.ufo">
+  <instance name="SemiBold" familyname="Emine" filename="instances/Emine-SemiBold.ufo" stylename="SemiBold">
    <location>
-    <dimension name="weight" xvalue="600"/>
+    <dimension name="weight" xvalue="589.286"/>
    </location>
   </instance>
-  <instance stylename="Bold" name="Bold" familyname="Emine" filename="instances/Emine-Bold.ufo">
+  <instance name="Bold" familyname="Emine" filename="instances/Emine-Bold.ufo" stylename="Bold">
    <location>
-    <dimension name="weight" xvalue="700"/>
+    <dimension name="weight" xvalue="678.571"/>
    </location>
   </instance>
-  <instance stylename="ExtraBold" name="ExtraBold" familyname="Emine" filename="instances/Emine-ExtraBold.ufo">
+  <instance name="ExtraBold" familyname="Emine" filename="instances/Emine-ExtraBold.ufo" stylename="ExtraBold">
    <location>
-    <dimension name="weight" xvalue="800"/>
-   </location>
-  </instance>
-  <instance stylename="Black" name="Black" familyname="Emine" filename="instances/Emine-Black.ufo">
-   <location>
-    <dimension name="weight" xvalue="900"/>
+    <dimension name="weight" xvalue="767.857"/>
    </location>
   </instance>
  </instances>

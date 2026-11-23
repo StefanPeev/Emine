@@ -708,7 +708,6 @@
     <string>periodcentered.loclCAT</string>
     <string>periodcenteredcomb</string>
     <string>plus</string>
-    <string>uni00AD</string>
     <string>uni20AD</string>
     <string>uni2219</string>
   </array>
@@ -795,6 +794,11 @@
     <string>zacute</string>
     <string>zcaron</string>
     <string>zdotaccent</string>
+  </array>
+  <key>public.kern2./A /U /u /w /y /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Ugrave /Uacute /Ucircumflex /Udieresis /agrave /aacute /acircumflex /atilde /adieresis /ugrave /uacute /ucircumflex /udieresis /yacute /ydieresis /Amacron /amacron /Abreve /abreve /Utilde /utilde /Umacron /umacron /Ubreve /ubreve /Uhungarumlaut /uhungarumlaut /wcircumflex /ycircumflex /Uhorn /uhorn /uni0200 /uni0201 /uni0202 /uni0203 /uni0214 /uni0215 /uni0216 /uni0217 /uni0226 /uni0227 /uni0233 /uni0410 /uni0430 /wgrave /wacute /wdieresis /uni1EA0 /a /uni1EA2 /uni1EA3 /uni1EA4 /uni1EA5 /uni1EA6 /uni1EA7 /uni1EA8 /uni1EA9 /uni1EAA /uni1EAB /uni1EAC /uni1EAD /uni1EB4 /uni1EB5 /uni1EB6 /uni1EB7 /uni1EE4 /uni1EE5 /uni1EE6 /uni1EE7 /uni1EE8 /uni1EE9 /uni1EEA /uni1EEB /uni1EEC /uni1EED /uni1EEE /uni1EEF /uni1EF0 /uni1EF1 /ygrave /uni1EF5 /uni1EF7 /uni1EF9 /icyr.loclBGR /ishortcyr.loclBGR /igravecyr.loclBGR /wdot /wdotbelow /ydot /Udieresisbelow /udieresisbelow /Utildebelow /utildebelow /Ucircumflexbelow /ucircumflexbelow /Utildeacute /utildeacute /Umacrondieresis /umacrondieresis /Acaron /acaron /Ucaron /ucaron /Aringbelow /aringbelow /Udieresismacron /udieresismacron /Adotmacron /adotmacron /Adieresismacron /adieresismacron /Abrevecyr /abrevecyr /Adieresiscyr /adieresiscyr /Udieresisacute /udieresisacute /Udieresiscaron /udieresiscaron /Udieresisgrave /udieresisgrave /adotbelow</key>
+  <array>
+    <string>adotbelow</string>
+    <string>zero</string>
   </array>
   <key>public.kern2.A2</key>
   <array>
@@ -1315,7 +1319,6 @@
     <string>periodcentered.loclCAT</string>
     <string>periodcenteredcomb</string>
     <string>plus</string>
-    <string>uni00AD</string>
     <string>uni2219</string>
   </array>
   <key>public.kern2.s2</key>

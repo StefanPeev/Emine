@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondbl" format="2">
+  <advance width="1160"/>
+  <unicode hex="2047"/>
+  <outline>
+    <component base="question"/>
+    <component base="question" xOffset="585"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsRight</key>
+  <string>question</string>
+  <key>com.fontlab.recipe</key>
+  <string>question_question</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

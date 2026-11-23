@@ -2,8 +2,18 @@
 <glyph name="uni03040300" format="2">
   <anchor x="0" y="570" name="_top"/>
   <outline>
-    <component base="uni0304"/>
-    <component base="uni0300" yOffset="230"/>
+    <contour>
+      <point x="210" y="595" type="line"/>
+      <point x="210" y="735" type="line"/>
+      <point x="-210" y="735" type="line"/>
+      <point x="-210" y="595" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="800" type="line"/>
+      <point x="44" y="1020" type="line"/>
+      <point x="-186" y="1020" type="line"/>
+      <point x="-66" y="800" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -11,6 +21,25 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>macroncomb_gravecomb</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m210,595l210,735l-210,735l-210,595m104,800l44,1020l-186,1020l-66,800</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 595 140</string>
+          <string>hstem 800 220</string>
+          <string>vstem 24 420</string>
+          <string>vstem 24 290</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

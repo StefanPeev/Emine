@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uniFF4B" format="2">
-  <advance width="1000"/>
+  <advance width="998"/>
   <unicode hex="FF4B"/>
   <outline>
     <contour>
-      <point x="342" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="340" y="262" type="line"/>
       <point x="342" y="262" type="line"/>
-      <point x="344" y="262" type="line"/>
-      <point x="706" y="0" type="line"/>
-      <point x="740" y="0" type="line"/>
-      <point x="367" y="270" type="line"/>
-      <point x="723" y="520" type="line"/>
-      <point x="689" y="520" type="line"/>
-      <point x="344" y="278" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="738" y="0" type="line"/>
+      <point x="365" y="270" type="line"/>
+      <point x="721" y="520" type="line"/>
+      <point x="687" y="520" type="line"/>
       <point x="342" y="278" type="line"/>
-      <point x="342" y="730" type="line"/>
+      <point x="340" y="278" type="line"/>
+      <point x="340" y="730" type="line"/>
       <point x="320" y="730" type="line"/>
       <point x="320" y="0" type="line"/>
     </contour>
@@ -23,12 +23,14 @@
   <dict>
   <key>com.fontlab.caretAnchors</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=320</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w1000m342,0l342,262l344,262l706,0l740,0l367,270l723,520l689,520l344,278l342,278l342,730l320,730l320,0</string>
+    <string>w998m340,0l340,262l342,262l704,0l738,0l365,270l721,520l687,520l342,278l340,278l340,730l320,730l320,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -38,7 +40,7 @@
           <string>hstem 262 16</string>
           <string>hstem 520 -20</string>
           <string>hstem 730 -20</string>
-          <string>vstem 320 22</string>
+          <string>vstem 318 22</string>
         </array>
       </dict>
     </array>

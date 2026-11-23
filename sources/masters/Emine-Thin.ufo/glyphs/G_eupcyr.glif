@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Geupcyr" format="2">
+  <advance width="522"/>
+  <unicode hex="0490"/>
+  <outline>
+    <contour>
+      <point x="110" y="710" type="line"/>
+      <point x="500" y="710" type="line"/>
+      <point x="500" y="730" type="line"/>
+      <point x="110" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="0" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="130" y="730" type="line"/>
+      <point x="110" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="710" type="line"/>
+      <point x="500" y="710" type="line"/>
+      <point x="500" y="890" type="line"/>
+      <point x="480" y="890" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=uni0413</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=uni0413</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hardcyr" format="2">
-  <advance width="586"/>
+  <advance width="576"/>
   <unicode hex="044A"/>
   <outline>
     <contour>
@@ -11,22 +11,22 @@
     </contour>
     <contour>
       <point x="186" y="0" type="line"/>
-      <point x="271" y="0" type="line" smooth="yes"/>
-      <point x="423" y="0"/>
-      <point x="526" y="41"/>
-      <point x="526" y="186" type="curve" smooth="yes"/>
-      <point x="526" y="324"/>
-      <point x="413" y="370"/>
-      <point x="290" y="370" type="curve" smooth="yes"/>
+      <point x="269" y="0" type="line" smooth="yes"/>
+      <point x="416" y="0"/>
+      <point x="516" y="41"/>
+      <point x="516" y="179" type="curve" smooth="yes"/>
+      <point x="516" y="324"/>
+      <point x="406" y="370"/>
+      <point x="287" y="370" type="curve" smooth="yes"/>
       <point x="186" y="370" type="line"/>
       <point x="186" y="290" type="line"/>
-      <point x="276" y="290" type="line" smooth="yes"/>
-      <point x="375" y="290"/>
-      <point x="426" y="257"/>
-      <point x="426" y="186" type="curve" smooth="yes"/>
-      <point x="426" y="115"/>
-      <point x="378" y="80"/>
-      <point x="281" y="80" type="curve" smooth="yes"/>
+      <point x="268" y="290" type="line" smooth="yes"/>
+      <point x="359" y="290"/>
+      <point x="406" y="257"/>
+      <point x="406" y="185" type="curve" smooth="yes"/>
+      <point x="406" y="115"/>
+      <point x="362" y="80"/>
+      <point x="273" y="80" type="curve" smooth="yes"/>
       <point x="186" y="80" type="line"/>
     </contour>
     <contour>
@@ -36,6 +36,8 @@
       <point x="106" y="520" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="216" y="0"/>
+  <guideline angle="90" x="406" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>

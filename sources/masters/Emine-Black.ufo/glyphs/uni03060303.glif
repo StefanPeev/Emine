@@ -2,8 +2,50 @@
 <glyph name="uni03060303" format="2">
   <anchor x="0" y="570" name="_top"/>
   <outline>
-    <component base="uni0306"/>
-    <component base="uni0303" yOffset="220"/>
+    <contour>
+      <point x="0" y="550" type="curve" smooth="yes"/>
+      <point x="171" y="550"/>
+      <point x="260" y="620"/>
+      <point x="260" y="755" type="curve"/>
+      <point x="90" y="755" type="line"/>
+      <point x="81" y="706"/>
+      <point x="50" y="680"/>
+      <point x="0" y="680" type="curve" smooth="yes"/>
+      <point x="-51" y="680"/>
+      <point x="-82" y="706"/>
+      <point x="-90" y="755" type="curve"/>
+      <point x="-260" y="755" type="line"/>
+      <point x="-260" y="620"/>
+      <point x="-170" y="550"/>
+    </contour>
+    <contour>
+      <point x="125" y="785" type="curve" smooth="yes"/>
+      <point x="210" y="785"/>
+      <point x="250" y="858"/>
+      <point x="250" y="1010" type="curve"/>
+      <point x="102" y="1010" type="line"/>
+      <point x="102" y="953"/>
+      <point x="98" y="940"/>
+      <point x="80" y="940" type="curve" smooth="yes"/>
+      <point x="65" y="940"/>
+      <point x="49" y="947"/>
+      <point x="23" y="963" type="curve" smooth="yes"/>
+      <point x="-32" y="997"/>
+      <point x="-83" y="1015"/>
+      <point x="-125" y="1015" type="curve" smooth="yes"/>
+      <point x="-210" y="1015"/>
+      <point x="-250" y="942"/>
+      <point x="-250" y="790" type="curve"/>
+      <point x="-102" y="790" type="line"/>
+      <point x="-102" y="847"/>
+      <point x="-98" y="860"/>
+      <point x="-80" y="860" type="curve" smooth="yes"/>
+      <point x="-65" y="860"/>
+      <point x="-49" y="853"/>
+      <point x="-23" y="837" type="curve" smooth="yes"/>
+      <point x="32" y="803"/>
+      <point x="83" y="785"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -11,6 +53,27 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>brevecomb_tildecomb</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>e61df6641eda1c5560ba8de158ef2e95cb91bcf4a4037243926fe75158ae81b3015b345a7e7d0de22d554fb65c1d7761741f3754d893d79a13d73597ecc449a0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 550 205</string>
+          <string>hstem 785 225</string>
+          <string>hstem 790 225</string>
+          <string>vstem 14 520</string>
+          <string>vstem 24 148</string>
+          <string>vstem 376 148</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

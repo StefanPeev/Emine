@@ -4,6 +4,7 @@
   <unicode hex="1E73"/>
   <anchor x="307" y="590" name="top"/>
   <anchor x="307" y="590" name="t.ring"/>
+  <anchor x="604" y="375" name="t.horn"/>
   <outline>
     <component base="u"/>
     <component base="uni0324" xOffset="309"/>

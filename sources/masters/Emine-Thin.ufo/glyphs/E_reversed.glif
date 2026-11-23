@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ereversed" format="2">
+  <advance width="622"/>
+  <unicode hex="018E"/>
+  <outline>
+    <contour>
+      <point x="82" y="730" type="line"/>
+      <point x="82" y="710" type="line"/>
+      <point x="492" y="710" type="line"/>
+      <point x="492" y="350" type="line"/>
+      <point x="102" y="350" type="line"/>
+      <point x="102" y="330" type="line"/>
+      <point x="492" y="330" type="line"/>
+      <point x="492" y="20" type="line"/>
+      <point x="82" y="20" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="512" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=|E</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=|E</string>
+  </dict>
+  </lib>
+</glyph>

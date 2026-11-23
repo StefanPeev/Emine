@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questionexclamationmark" format="2">
+  <advance width="761"/>
+  <unicode hex="2048"/>
+  <outline>
+    <component base="question"/>
+    <component base="exclam" xOffset="541"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>question</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>question</string>
+  <key>com.fontlab.recipe</key>
+  <string>question_exclam</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

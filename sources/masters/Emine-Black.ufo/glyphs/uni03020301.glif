@@ -2,8 +2,22 @@
 <glyph name="uni03020301" format="2">
   <anchor x="0" y="570" name="_top"/>
   <outline>
-    <component base="uni0302"/>
-    <component base="uni0301" xOffset="326" yOffset="133"/>
+    <contour>
+      <point x="-60" y="570" type="line"/>
+      <point x="-1" y="670" type="line"/>
+      <point x="1" y="670" type="line"/>
+      <point x="60" y="570" type="line"/>
+      <point x="270" y="570" type="line"/>
+      <point x="110" y="790" type="line"/>
+      <point x="-110" y="790" type="line"/>
+      <point x="-270" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="508" y="923" type="line"/>
+      <point x="278" y="923" type="line"/>
+      <point x="218" y="703" type="line"/>
+      <point x="388" y="703" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -11,6 +25,25 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>circumflexcomb_acutecomb</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-60,570l-1,670l1,670l60,570l270,570l110,790l-110,790l-270,570m508,923l278,923l218,703l388,703</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 220</string>
+          <string>hstem 703 220</string>
+          <string>vstem 24 540</string>
+          <string>vstem 368 290</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

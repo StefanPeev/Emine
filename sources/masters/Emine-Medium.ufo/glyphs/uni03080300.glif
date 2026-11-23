@@ -2,8 +2,24 @@
 <glyph name="uni03080300" format="2">
   <anchor x="0" y="570" name="_top"/>
   <outline>
-    <component base="uni0308"/>
-    <component base="uni0300" yOffset="210"/>
+    <contour>
+      <point x="190" y="602" type="line"/>
+      <point x="190" y="728" type="line"/>
+      <point x="64" y="728" type="line"/>
+      <point x="64" y="602" type="line"/>
+    </contour>
+    <contour>
+      <point x="-64" y="602" type="line"/>
+      <point x="-64" y="728" type="line"/>
+      <point x="-190" y="728" type="line"/>
+      <point x="-190" y="602" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="780" type="line"/>
+      <point x="-5" y="1000" type="line"/>
+      <point x="-145" y="1000" type="line"/>
+      <point x="-24" y="780" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="-64" y="0"/>
   <guideline angle="90" x="64" y="0"/>
@@ -14,6 +30,26 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>dieresiscomb_gravecomb</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m190,602l190,728l64,728l64,602m-64,602l-64,728l-190,728l-190,602m86,780l-5,1000l-145,1000l-24,780</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 602 126</string>
+          <string>hstem 780 220</string>
+          <string>vstem 25 231</string>
+          <string>vstem 29 126</string>
+          <string>vstem 283 126</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

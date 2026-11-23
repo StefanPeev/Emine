@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="triangularbullet" format="2">
+  <advance width="555"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="495" y="290" type="line"/>
+      <point x="60" y="540" type="line"/>
+      <point x="60" y="40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=60</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=60</string>
+  </dict>
+  </lib>
+</glyph>

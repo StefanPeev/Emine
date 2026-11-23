@@ -2,8 +2,22 @@
 <glyph name="uni030C0307" format="2">
   <anchor x="0" y="570" name="_top"/>
   <outline>
-    <component base="uni030C"/>
-    <component base="uni0307" yOffset="260"/>
+    <contour>
+      <point x="-270" y="790" type="line"/>
+      <point x="-110" y="570" type="line"/>
+      <point x="110" y="570" type="line"/>
+      <point x="270" y="790" type="line"/>
+      <point x="60" y="790" type="line"/>
+      <point x="1" y="690" type="line"/>
+      <point x="-1" y="690" type="line"/>
+      <point x="-60" y="790" type="line"/>
+    </contour>
+    <contour>
+      <point x="95" y="830" type="line"/>
+      <point x="95" y="1020" type="line"/>
+      <point x="-95" y="1020" type="line"/>
+      <point x="-95" y="830" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -11,6 +25,25 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>caroncomb_dotaccentcomb</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w0m-270,790l-110,570l110,570l270,790l60,790l1,690l-1,690l-60,790m95,830l95,1020l-95,1020l-95,830</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 570 220</string>
+          <string>hstem 830 190</string>
+          <string>vstem 24 540</string>
+          <string>vstem 24 190</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

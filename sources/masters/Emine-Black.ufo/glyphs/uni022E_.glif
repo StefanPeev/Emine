@@ -3,6 +3,7 @@
   <advance width="820"/>
   <unicode hex="022E"/>
   <anchor x="410" y="-50" name="bottom"/>
+  <anchor x="748" y="535" name="t.horn"/>
   <outline>
     <component base="O"/>
     <component base="uni0307" xOffset="410" yOffset="220"/>

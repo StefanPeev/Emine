@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhebrevecyr" format="2">
+  <advance width="836"/>
+  <unicode hex="04C1"/>
+  <outline>
+    <component base="uni0416"/>
+    <component base="brevecyr" xOffset="418" yOffset="220"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>uni0416</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>uni0416</string>
+  <key>com.fontlab.recipe</key>
+  <string>= uni0416 + brevecyr@top</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

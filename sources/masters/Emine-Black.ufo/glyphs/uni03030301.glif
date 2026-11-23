@@ -2,8 +2,40 @@
 <glyph name="uni03030301" format="2">
   <anchor x="0" y="570" name="_top"/>
   <outline>
-    <component base="uni0303"/>
-    <component base="uni0301" xOffset="-37" yOffset="260"/>
+    <contour>
+      <point x="125" y="565" type="curve" smooth="yes"/>
+      <point x="210" y="565"/>
+      <point x="250" y="638"/>
+      <point x="250" y="790" type="curve"/>
+      <point x="102" y="790" type="line"/>
+      <point x="102" y="733"/>
+      <point x="98" y="720"/>
+      <point x="80" y="720" type="curve" smooth="yes"/>
+      <point x="65" y="720"/>
+      <point x="49" y="727"/>
+      <point x="23" y="743" type="curve" smooth="yes"/>
+      <point x="-32" y="777"/>
+      <point x="-83" y="795"/>
+      <point x="-125" y="795" type="curve" smooth="yes"/>
+      <point x="-210" y="795"/>
+      <point x="-250" y="722"/>
+      <point x="-250" y="570" type="curve"/>
+      <point x="-102" y="570" type="line"/>
+      <point x="-102" y="627"/>
+      <point x="-98" y="640"/>
+      <point x="-80" y="640" type="curve" smooth="yes"/>
+      <point x="-65" y="640"/>
+      <point x="-49" y="633"/>
+      <point x="-23" y="617" type="curve" smooth="yes"/>
+      <point x="32" y="583"/>
+      <point x="83" y="565"/>
+    </contour>
+    <contour>
+      <point x="145" y="1050" type="line"/>
+      <point x="-85" y="1050" type="line"/>
+      <point x="-145" y="830" type="line"/>
+      <point x="25" y="830" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -11,6 +43,27 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>uni0303+uni0301</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>d7dfabe9bd694c00635e77f19b7c8495a7eb1c167adcc220a928422b723893f351ab8b96d02d58109ef3daf41b756a028d9a83bb6df8ae1cb7f11ea7ef223c6e</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 565 225</string>
+          <string>hstem 570 225</string>
+          <string>hstem 830 220</string>
+          <string>vstem 5 290</string>
+          <string>vstem 24 148</string>
+          <string>vstem 376 148</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

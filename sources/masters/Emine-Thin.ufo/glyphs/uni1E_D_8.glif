@@ -2,6 +2,7 @@
 <glyph name="uni1ED8" format="2">
   <advance width="850"/>
   <unicode hex="1ED8"/>
+  <anchor x="684" y="665" name="t.horn"/>
   <outline>
     <component base="uni1ECC"/>
     <component base="uni0302" xOffset="425" yOffset="220"/>

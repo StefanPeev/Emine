@@ -4,7 +4,54 @@
   <unicode hex="01E5"/>
   <anchor x="311" y="590" name="top"/>
   <outline>
-    <component base="g"/>
+    <contour>
+      <point x="285" y="-220" type="curve" smooth="yes"/>
+      <point x="486" y="-220"/>
+      <point x="587" y="-123"/>
+      <point x="587" y="70" type="curve" smooth="yes"/>
+      <point x="587" y="520" type="line"/>
+      <point x="401" y="520" type="line"/>
+      <point x="399" y="464" type="line"/>
+      <point x="397" y="464" type="line"/>
+      <point x="348" y="510"/>
+      <point x="299" y="530"/>
+      <point x="236" y="530" type="curve" smooth="yes"/>
+      <point x="101" y="530"/>
+      <point x="27" y="440"/>
+      <point x="27" y="275" type="curve" smooth="yes"/>
+      <point x="27" y="110"/>
+      <point x="101" y="20"/>
+      <point x="236" y="20" type="curve" smooth="yes"/>
+      <point x="298" y="20"/>
+      <point x="340" y="38"/>
+      <point x="389" y="86" type="curve"/>
+      <point x="391" y="86" type="line"/>
+      <point x="391" y="70" type="line" smooth="yes"/>
+      <point x="391" y="-39"/>
+      <point x="357" y="-80"/>
+      <point x="266" y="-80" type="curve" smooth="yes"/>
+      <point x="206" y="-80"/>
+      <point x="129" y="-62"/>
+      <point x="79" y="-36" type="curve"/>
+      <point x="59" y="-176" type="line"/>
+      <point x="109" y="-203"/>
+      <point x="197" y="-220"/>
+    </contour>
+    <contour>
+      <point x="307" y="170" type="curve" smooth="yes"/>
+      <point x="251" y="170"/>
+      <point x="219" y="208"/>
+      <point x="219" y="275" type="curve" smooth="yes"/>
+      <point x="219" y="342"/>
+      <point x="251" y="380"/>
+      <point x="307" y="380" type="curve" smooth="yes"/>
+      <point x="356" y="380"/>
+      <point x="391" y="351"/>
+      <point x="391" y="310" type="curve" smooth="yes"/>
+      <point x="391" y="240" type="line" smooth="yes"/>
+      <point x="391" y="199"/>
+      <point x="356" y="170"/>
+    </contour>
     <contour>
       <point x="250" y="-53" type="line"/>
       <point x="642" y="-53" type="line"/>
@@ -18,6 +65,27 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>g</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>33f8b4da98d1517da0d9ab04f689c34127c9931909c72bd31994424942e025df9f40e1d5f961c6a822b71f23111ab9e61828403f6c82d1b65bd48c3111e1623b</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -220 140</string>
+          <string>hstem 20 150</string>
+          <string>hstem 380 140</string>
+          <string>hstem 380 150</string>
+          <string>vstem 27 192</string>
+          <string>vstem 391 196</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

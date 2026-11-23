@@ -5,6 +5,7 @@
   <anchor x="289" y="590" name="top"/>
   <anchor x="289" y="-50" name="bottom"/>
   <anchor x="289" y="590" name="t.ring"/>
+  <anchor x="524" y="500" name="t.horn"/>
   <outline>
     <contour>
       <point x="254" y="-10" type="curve" smooth="yes"/>
@@ -31,6 +32,7 @@
     </contour>
   </outline>
   <guideline angle="90" x="289" y="0"/>
+  <guideline angle="0" x="0" y="635"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>

@@ -182,7 +182,6 @@
     <string>ordfeminine</string>
     <string>guillemotleft</string>
     <string>logicalnot</string>
-    <string>uni00AD</string>
     <string>registered</string>
     <string>macron</string>
     <string>degree</string>
@@ -827,47 +826,6 @@
     <string>uni25B6</string>
     <string>triagdn</string>
     <string>uni25C0</string>
-    <string>uni3000</string>
-    <string>uni3001</string>
-    <string>uni3002</string>
-    <string>uni3003</string>
-    <string>uni3004</string>
-    <string>uni3008</string>
-    <string>uni3009</string>
-    <string>uni300A</string>
-    <string>uni300B</string>
-    <string>uni300C</string>
-    <string>uni300D</string>
-    <string>uni300E</string>
-    <string>uni300F</string>
-    <string>uni3010</string>
-    <string>uni3011</string>
-    <string>uni3012</string>
-    <string>uni3013</string>
-    <string>uni3014</string>
-    <string>uni3015</string>
-    <string>uni3016</string>
-    <string>uni3017</string>
-    <string>uni3018</string>
-    <string>uni3019</string>
-    <string>uni301A</string>
-    <string>uni301B</string>
-    <string>uni301C</string>
-    <string>uni301D</string>
-    <string>uni301E</string>
-    <string>uni301F</string>
-    <string>uni3030</string>
-    <string>uni3031</string>
-    <string>uni3032</string>
-    <string>uni3033</string>
-    <string>uni3034</string>
-    <string>uni3035</string>
-    <string>uni303C</string>
-    <string>uni303D</string>
-    <string>uni3099</string>
-    <string>uni309A</string>
-    <string>uni30FB</string>
-    <string>uni30FC</string>
     <string>fi</string>
     <string>fl</string>
     <string>uniFF01</string>
@@ -1330,6 +1288,28 @@
     <string>obardieresiscyr</string>
     <string>Ereverseddieresiscyr</string>
     <string>ereverseddieresiscyr</string>
+    <string>Ereversed</string>
+    <string>adotbelow</string>
+    <string>Geupcyr</string>
+    <string>geupcyr</string>
+    <string>Zhedieresiscyr</string>
+    <string>zhedieresiscyr</string>
+    <string>Zhebrevecyr</string>
+    <string>zhebrevecyr</string>
+    <string>Chedieresiscyr</string>
+    <string>chedieresiscyr</string>
+    <string>Ylongdieresiscyr</string>
+    <string>ylongdieresiscyr</string>
+    <string>euroarchaic</string>
+    <string>tenge</string>
+    <string>triangularbullet</string>
+    <string>pertenthousandsign</string>
+    <string>questiondbl</string>
+    <string>questionexclamationmark</string>
+    <string>exclamationquestion</string>
+    <string>exclamdbl</string>
+    <string>tugrik</string>
+    <string>hryvnia</string>
   </array>
 </dict>
 </plist>

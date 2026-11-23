@@ -713,7 +713,6 @@
     <string>periodcentered.loclCAT</string>
     <string>periodcenteredcomb</string>
     <string>plus</string>
-    <string>uni00AD</string>
     <string>uni20AD</string>
     <string>uni2219</string>
   </array>
@@ -923,6 +922,10 @@
   <array>
     <string>J</string>
     <string>Jcircumflex</string>
+  </array>
+  <key>public.kern2.O U o u Ograve Oacute Ocircumflex Otilde Odieresis Ugrave Uacute Ucircumflex Udieresis ograve oacute ocircumflex otilde odieresis ugrave uacute ucircumflex udieresis Omacron omacron Obreve obreve Ohungarumlaut ohungarumlaut Utilde utilde Umacron umacron Ubreve ubreve Uring uring Uhungarumlaut uhungarumlaut Ohorn ohorn Uhorn uhorn uni020C uni020D uni020E uni020F uni0214 uni0215 uni0216 uni0217 uni022A uni022B uni022C uni022D uni022E uni022F uni0230 uni0231 uni041E uni043E uni1ECC uni1ECD uni1ECE uni1ECF uni1ED0 uni1ED1 uni1ED2 uni1ED3 uni1ED4 uni1ED5 uni1ED6 uni1ED7 uni1ED8 uni1ED9 uni1EDA uni1EDB uni1EDC uni1EDD uni1EDE uni1EDF uni1EE0 uni1EE1 uni1EE2 uni1EE3 uni1EE4 uni1EE5 uni1EE6 uni1EE7 uni1EE8 uni1EE9 uni1EEA uni1EEB uni1EEC uni1EED uni1EEE uni1EEF uni1EF0 uni1EF1 icyr.loclBGR ishortcyr.loclBGR igravecyr.loclBGR Udieresisbelow udieresisbelow Utildebelow utildebelow Ucircumflexbelow ucircumflexbelow Utildeacute utildeacute Umacrondieresis umacrondieresis Ocaron ocaron Ucaron ucaron Otildeacute otildeacute Otildedieresis otildedieresis Omacrongrave omacrongrave Omacronacute omacronacute Udieresismacron udieresismacron Odieresiscyr odieresiscyr Udieresisacute udieresisacute Udieresiscaron udieresiscaron Udieresisgrave udieresisgrave</key>
+  <array>
+    <string>uni0325</string>
   </array>
   <key>public.kern2.S2</key>
   <array>
@@ -1270,7 +1273,6 @@
     <string>periodcentered.loclCAT</string>
     <string>periodcenteredcomb</string>
     <string>plus</string>
-    <string>uni00AD</string>
     <string>uni2219</string>
   </array>
   <key>public.kern2.s2</key>
@@ -1305,6 +1307,10 @@
     <string>uogonek</string>
     <string>uring</string>
     <string>utilde</string>
+  </array>
+  <key>public.kern2.uni0325</key>
+  <array>
+    <string>zero</string>
   </array>
   <key>public.kern2.uni2070_2</key>
   <array>

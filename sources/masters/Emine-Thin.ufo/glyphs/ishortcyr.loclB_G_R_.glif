@@ -3,6 +3,7 @@
   <advance width="578"/>
   <anchor x="289" y="-50" name="bottom"/>
   <anchor x="289" y="590" name="t.ring"/>
+  <anchor x="524" y="500" name="t.horn"/>
   <outline>
     <component base="icyr.loclBGR"/>
     <component base="brevecyr" xOffset="289" yOffset="20"/>

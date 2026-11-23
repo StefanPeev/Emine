@@ -1,37 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k" format="2">
-  <advance width="588"/>
+  <advance width="596"/>
   <unicode hex="006B"/>
-  <anchor x="294" y="590" name="top"/>
-  <anchor x="294" y="-50" name="bottom"/>
+  <anchor x="302" y="590" name="top"/>
+  <anchor x="302" y="-50" name="bottom"/>
   <outline>
     <contour>
-      <point x="185" y="0" type="line"/>
-      <point x="185" y="235" type="line"/>
-      <point x="187" y="235" type="line"/>
-      <point x="427" y="0" type="line"/>
-      <point x="566" y="0" type="line"/>
-      <point x="280" y="270" type="line"/>
-      <point x="555" y="520" type="line"/>
-      <point x="416" y="520" type="line"/>
-      <point x="187" y="306" type="line"/>
-      <point x="185" y="306" type="line"/>
-      <point x="185" y="730" type="line"/>
-      <point x="76" y="730" type="line"/>
-      <point x="76" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="235" type="line"/>
+      <point x="195" y="235" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="288" y="270" type="line"/>
+      <point x="563" y="520" type="line"/>
+      <point x="424" y="520" type="line"/>
+      <point x="195" y="306" type="line"/>
+      <point x="193" y="306" type="line"/>
+      <point x="193" y="730" type="line"/>
+      <point x="84" y="730" type="line"/>
+      <point x="84" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="294" y="0"/>
+  <guideline angle="90" x="302" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=l</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w588m185,0l185,235l187,235l427,0l566,0l280,270l555,520l416,520l187,306l185,306l185,730l76,730l76,0</string>
+    <string>w596m193,0l193,235l195,235l435,0l574,0l288,270l563,520l424,520l195,306l193,306l193,730l84,730l84,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -40,7 +42,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 520 -20</string>
           <string>hstem 730 -20</string>
-          <string>vstem 76 109</string>
+          <string>vstem 84 109</string>
         </array>
       </dict>
     </array>

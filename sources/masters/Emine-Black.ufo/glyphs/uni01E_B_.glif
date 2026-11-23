@@ -4,7 +4,6 @@
   <unicode hex="01EB"/>
   <anchor x="307" y="590" name="top"/>
   <outline>
-    <component base="o"/>
     <contour>
       <point x="165" y="-82" type="curve" smooth="yes"/>
       <point x="165" y="-170"/>
@@ -27,6 +26,34 @@
       <point x="181" y="-17"/>
       <point x="165" y="-47"/>
     </contour>
+    <contour>
+      <point x="307" y="-10" type="curve" smooth="yes"/>
+      <point x="489" y="-10"/>
+      <point x="587" y="84"/>
+      <point x="587" y="260" type="curve" smooth="yes"/>
+      <point x="587" y="436"/>
+      <point x="489" y="530"/>
+      <point x="307" y="530" type="curve" smooth="yes"/>
+      <point x="125" y="530"/>
+      <point x="27" y="436"/>
+      <point x="27" y="260" type="curve" smooth="yes"/>
+      <point x="27" y="84"/>
+      <point x="125" y="-10"/>
+    </contour>
+    <contour>
+      <point x="307" y="130" type="curve" smooth="yes"/>
+      <point x="249" y="130"/>
+      <point x="223" y="170"/>
+      <point x="223" y="260" type="curve" smooth="yes"/>
+      <point x="223" y="350"/>
+      <point x="249" y="390"/>
+      <point x="307" y="390" type="curve" smooth="yes"/>
+      <point x="365" y="390"/>
+      <point x="391" y="350"/>
+      <point x="391" y="260" type="curve" smooth="yes"/>
+      <point x="391" y="170"/>
+      <point x="365" y="130"/>
+    </contour>
   </outline>
   <guideline angle="90" x="307" y="0"/>
   <lib>
@@ -38,7 +65,7 @@
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>631c585b6423ff6dab09c6a728f2954b614d7ed630a2f07d005ff30b25628e97bc289dbaa4da57f8620d7d10e899e9025085436a800eded47a65c4797b7d6d16</string>
+    <string>e27be9d2d04cb28404cecf34bde721f7988bd7c9014191c9785323db6c94734ddb7591db91c702dba849d288c92e15e30bfc06279eb8dccf6ee2b06b2dbed41a</string>
     <key>hintSetList</key>
     <array>
       <dict>

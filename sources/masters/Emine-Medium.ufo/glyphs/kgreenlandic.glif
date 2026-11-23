@@ -23,6 +23,8 @@
   <dict>
   <key>com.fontlab.caretAnchors</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>

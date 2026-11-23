@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="2">
-  <advance width="558"/>
+  <advance width="556"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="121" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="262" type="line"/>
       <point x="121" y="262" type="line"/>
-      <point x="123" y="262" type="line"/>
-      <point x="485" y="0" type="line"/>
-      <point x="519" y="0" type="line"/>
-      <point x="146" y="270" type="line"/>
-      <point x="502" y="520" type="line"/>
-      <point x="468" y="520" type="line"/>
-      <point x="123" y="278" type="line"/>
+      <point x="483" y="0" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="144" y="270" type="line"/>
+      <point x="500" y="520" type="line"/>
+      <point x="466" y="520" type="line"/>
       <point x="121" y="278" type="line"/>
-      <point x="121" y="520" type="line"/>
+      <point x="119" y="278" type="line"/>
+      <point x="119" y="520" type="line"/>
       <point x="99" y="520" type="line"/>
       <point x="99" y="0" type="line"/>
     </contour>
@@ -23,12 +23,14 @@
   <dict>
   <key>com.fontlab.caretAnchors</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=n</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>w558m121,0l121,262l123,262l485,0l519,0l146,270l502,520l468,520l123,278l121,278l121,520l99,520l99,0</string>
+    <string>w556m119,0l119,262l121,262l483,0l517,0l144,270l500,520l466,520l121,278l119,278l119,520l99,520l99,0</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -37,7 +39,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 262 16</string>
           <string>hstem 520 -20</string>
-          <string>vstem 99 22</string>
+          <string>vstem 97 22</string>
         </array>
       </dict>
     </array>

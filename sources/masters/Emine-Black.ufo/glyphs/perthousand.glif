@@ -10,20 +10,6 @@
       <point x="215" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="760" y="-6" type="curve" smooth="yes"/>
-      <point x="885" y="-6"/>
-      <point x="940" y="63"/>
-      <point x="940" y="219" type="curve" smooth="yes"/>
-      <point x="940" y="375"/>
-      <point x="885" y="444"/>
-      <point x="760" y="444" type="curve" smooth="yes"/>
-      <point x="635" y="444"/>
-      <point x="580" y="375"/>
-      <point x="580" y="219" type="curve" smooth="yes"/>
-      <point x="580" y="63"/>
-      <point x="635" y="-6"/>
-    </contour>
-    <contour>
       <point x="210" y="286" type="curve" smooth="yes"/>
       <point x="335" y="286"/>
       <point x="390" y="355"/>
@@ -38,20 +24,6 @@
       <point x="85" y="286"/>
     </contour>
     <contour>
-      <point x="760" y="116" type="curve" smooth="yes"/>
-      <point x="733" y="116"/>
-      <point x="723" y="141"/>
-      <point x="723" y="219" type="curve" smooth="yes"/>
-      <point x="723" y="297"/>
-      <point x="733" y="322"/>
-      <point x="760" y="322" type="curve" smooth="yes"/>
-      <point x="787" y="322"/>
-      <point x="797" y="297"/>
-      <point x="797" y="219" type="curve" smooth="yes"/>
-      <point x="797" y="141"/>
-      <point x="787" y="116"/>
-    </contour>
-    <contour>
       <point x="210" y="408" type="curve" smooth="yes"/>
       <point x="183" y="408"/>
       <point x="173" y="433"/>
@@ -64,6 +36,34 @@
       <point x="247" y="511" type="curve" smooth="yes"/>
       <point x="247" y="433"/>
       <point x="237" y="408"/>
+    </contour>
+    <contour>
+      <point x="760" y="-6" type="curve" smooth="yes"/>
+      <point x="885" y="-6"/>
+      <point x="940" y="63"/>
+      <point x="940" y="219" type="curve" smooth="yes"/>
+      <point x="940" y="375"/>
+      <point x="885" y="444"/>
+      <point x="760" y="444" type="curve" smooth="yes"/>
+      <point x="635" y="444"/>
+      <point x="580" y="375"/>
+      <point x="580" y="219" type="curve" smooth="yes"/>
+      <point x="580" y="63"/>
+      <point x="635" y="-6"/>
+    </contour>
+    <contour>
+      <point x="760" y="116" type="curve" smooth="yes"/>
+      <point x="733" y="116"/>
+      <point x="723" y="141"/>
+      <point x="723" y="219" type="curve" smooth="yes"/>
+      <point x="723" y="297"/>
+      <point x="733" y="322"/>
+      <point x="760" y="322" type="curve" smooth="yes"/>
+      <point x="787" y="322"/>
+      <point x="797" y="297"/>
+      <point x="797" y="219" type="curve" smooth="yes"/>
+      <point x="797" y="141"/>
+      <point x="787" y="116"/>
     </contour>
     <contour>
       <point x="1160" y="-6" type="curve" smooth="yes"/>
@@ -98,12 +98,16 @@
   <dict>
   <key>com.fontlab.caretAnchors</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=percent</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=percent</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>f18036968960ba5bb27c76bb19c9494dfd3fe752b48d264621bfecb90f9d5ad8a43550d8766080562fcc05bfbb4406af4a5c17c71cad41e93d214d0e5eb21222</string>
+    <string>991b7665da0cf7114cd4edea7297e1003bf8cdfe52e616466b80384af85681ffa8405b8148f2553f8a7cee6ca216300a7bd428413053a34731b1a5108a0ad856</string>
     <key>hintSetList</key>
     <array>
       <dict>

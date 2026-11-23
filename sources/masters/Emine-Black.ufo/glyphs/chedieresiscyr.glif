@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chedieresiscyr" format="2">
+  <advance width="577"/>
+  <unicode hex="04F5"/>
+  <outline>
+    <component base="checyr"/>
+    <component base="uni0308" xOffset="275" yOffset="20"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>checyr</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>checyr</string>
+  <key>com.fontlab.recipe</key>
+  <string>= checyr + uni0308@top</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

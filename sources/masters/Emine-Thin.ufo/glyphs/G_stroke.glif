@@ -5,7 +5,38 @@
   <anchor x="394" y="790" name="top"/>
   <anchor x="394" y="-50" name="bottom"/>
   <outline>
-    <component base="G"/>
+    <contour>
+      <point x="437" y="-10" type="curve" smooth="yes"/>
+      <point x="527" y="-10"/>
+      <point x="627" y="11"/>
+      <point x="695" y="44" type="curve"/>
+      <point x="695" y="395" type="line"/>
+      <point x="345" y="395" type="line"/>
+      <point x="345" y="375" type="line"/>
+      <point x="675" y="375" type="line"/>
+      <point x="675" y="57" type="line"/>
+      <point x="610" y="28"/>
+      <point x="519" y="10"/>
+      <point x="437" y="10" type="curve" smooth="yes"/>
+      <point x="212" y="10"/>
+      <point x="75" y="145"/>
+      <point x="75" y="365" type="curve" smooth="yes"/>
+      <point x="75" y="585"/>
+      <point x="212" y="720"/>
+      <point x="437" y="720" type="curve" smooth="yes"/>
+      <point x="522" y="720"/>
+      <point x="595" y="701"/>
+      <point x="657" y="663" type="curve"/>
+      <point x="667" y="680" type="line"/>
+      <point x="602" y="720"/>
+      <point x="525" y="740"/>
+      <point x="437" y="740" type="curve" smooth="yes"/>
+      <point x="201" y="740"/>
+      <point x="55" y="596"/>
+      <point x="55" y="365" type="curve" smooth="yes"/>
+      <point x="55" y="134"/>
+      <point x="201" y="-10"/>
+    </contour>
     <contour>
       <point x="345" y="226" type="line"/>
       <point x="785" y="226" type="line"/>
@@ -20,6 +51,26 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>G</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>7d9fa4a17b9d0ee0cb794d8b00723af7b45486d6dd2a8bd6cd9f137b8b4390b2baeced8b6613c99c0b37f8bf9920c15c3e8b376a5e3c90064f0843e54a1255c1</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -10 20</string>
+          <string>hstem 375 20</string>
+          <string>hstem 720 20</string>
+          <string>vstem 55 20</string>
+          <string>vstem 675 20</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

@@ -2,6 +2,11 @@
 
 When you update your font (new version or new release), please report all notable changes here, with a date. 
 
+* November 23, 2026 Version 1.018  
+  - Added currency symbols ₠ /euroarchaic ₸ /tenge ₮ /tugrik ₴ /hryvnia   
+  - Added Cyrillic glyphs Ӂ ӂ Ӝ ӝ Ӵ ӵ Ӹ ӹ  
+  - Added ‣ /triangularbullet ‱ /pertenthousandsign ‼/exclamdbl ⁇ /questiondbl ⁈ /questionexclamationmark ⁉ /exclamationquestion
+  
 * November 21, 2026 Version 1.017  
   - Cyrillic Capital Letter Ghe With Upturn, Cyrillic Small Letter Ghe With Upturn added for Ukrainian support.  
   - Expanding the Cyrillic script with local forms for Ukrainian, Belarusian Scripts.

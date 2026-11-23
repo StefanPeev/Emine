@@ -1,40 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0137" format="2">
-  <advance width="590"/>
+  <advance width="598"/>
   <unicode hex="0137"/>
   <outline>
     <contour>
-      <point x="185" y="0" type="line"/>
-      <point x="185" y="235" type="line"/>
-      <point x="187" y="235" type="line"/>
-      <point x="427" y="0" type="line"/>
-      <point x="566" y="0" type="line"/>
-      <point x="280" y="270" type="line"/>
-      <point x="555" y="520" type="line"/>
-      <point x="416" y="520" type="line"/>
-      <point x="187" y="306" type="line"/>
-      <point x="185" y="306" type="line"/>
-      <point x="185" y="730" type="line"/>
-      <point x="76" y="730" type="line"/>
-      <point x="76" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="235" type="line"/>
+      <point x="195" y="235" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="574" y="0" type="line"/>
+      <point x="288" y="270" type="line"/>
+      <point x="563" y="520" type="line"/>
+      <point x="424" y="520" type="line"/>
+      <point x="195" y="306" type="line"/>
+      <point x="193" y="306" type="line"/>
+      <point x="193" y="730" type="line"/>
+      <point x="84" y="730" type="line"/>
+      <point x="84" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="223" y="-270" type="line"/>
-      <point x="344" y="-50" type="line"/>
-      <point x="204" y="-50" type="line"/>
-      <point x="113" y="-270" type="line"/>
+      <point x="231" y="-270" type="line"/>
+      <point x="352" y="-50" type="line"/>
+      <point x="212" y="-50" type="line"/>
+      <point x="121" y="-270" type="line"/>
     </contour>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>
   <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=k</string>
   <key>public.postscript.hints</key>
   <dict>
     <key>formatVersion</key>
     <string>1</string>
     <key>id</key>
-    <string>2e8c37c9da40bf3c69077b4908a5929143c9c86c6db3dff986f19764c5267383567ae4112b22b363f1ec2ea46089cfe1ad2c754bb5738da5059d0da15d5f2ca3</string>
+    <string>8b8b6e7fed92881ffd4d76c2678375ed703e49f38c3795d7d089a68e41ccea3651a33ddb99a0508cb5ed3feba6cea416b5bfaa070d0d25a60ee34e5a1bbf758b</string>
     <key>hintSetList</key>
     <array>
       <dict>
@@ -44,7 +46,7 @@
           <string>hstem 21 -21</string>
           <string>hstem 520 -20</string>
           <string>hstem 730 -20</string>
-          <string>vstem 76 109</string>
+          <string>vstem 84 109</string>
         </array>
       </dict>
     </array>

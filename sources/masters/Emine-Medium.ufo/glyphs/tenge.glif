@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tenge" format="2">
+  <advance width="668"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="391" y="0" type="line"/>
+      <point x="391" y="475" type="line"/>
+      <point x="277" y="475" type="line"/>
+      <point x="277" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="639" y="460" type="line"/>
+      <point x="639" y="560" type="line"/>
+      <point x="29" y="560" type="line"/>
+      <point x="29" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="639" y="630" type="line"/>
+      <point x="639" y="730" type="line"/>
+      <point x="29" y="730" type="line"/>
+      <point x="29" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.caretAnchors</key>
+  <true/>
+  <key>com.fontlab.metricsLeft</key>
+  <string>=T</string>
+  <key>com.fontlab.metricsRight</key>
+  <string>=T</string>
+  </dict>
+  </lib>
+</glyph>

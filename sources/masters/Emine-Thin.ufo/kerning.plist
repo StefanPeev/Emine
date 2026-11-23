@@ -6883,8 +6883,6 @@
     <integer>-10</integer>
     <key>quotesinglbase</key>
     <integer>-10</integer>
-    <key>uni00AD</key>
-    <integer>-20</integer>
     <key>uni0123</key>
     <integer>-20</integer>
     <key>uni0162</key>
@@ -7207,8 +7205,6 @@
     <integer>10</integer>
     <key>underscore</key>
     <integer>30</integer>
-    <key>uni00AD</key>
-    <integer>-90</integer>
     <key>uni0122</key>
     <integer>-30</integer>
     <key>uni0123</key>
@@ -11210,8 +11206,6 @@
     <integer>-110</integer>
     <key>q</key>
     <integer>-60</integer>
-    <key>uni00AD</key>
-    <integer>-110</integer>
     <key>uni0123</key>
     <integer>-60</integer>
     <key>uni01C6</key>
@@ -11856,8 +11850,6 @@
     <integer>-10</integer>
     <key>semicolon</key>
     <integer>10</integer>
-    <key>uni00AD</key>
-    <integer>-70</integer>
     <key>uni0162</key>
     <integer>-90</integer>
     <key>uni021A</key>
@@ -13871,8 +13863,6 @@
     <integer>-10</integer>
     <key>underscore</key>
     <integer>-70</integer>
-    <key>uni00AD</key>
-    <integer>-20</integer>
     <key>uni0123</key>
     <integer>-20</integer>
     <key>uni0162</key>
@@ -15397,17 +15387,6 @@
     <integer>70</integer>
     <key>y</key>
     <integer>-30</integer>
-  </dict>
-  <key>uni00AD</key>
-  <dict>
-    <key>colon</key>
-    <integer>-20</integer>
-    <key>comma</key>
-    <integer>-90</integer>
-    <key>greater</key>
-    <integer>-70</integer>
-    <key>semicolon</key>
-    <integer>-20</integer>
   </dict>
   <key>uni00B5</key>
   <dict>

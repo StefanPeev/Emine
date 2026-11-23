@@ -45,7 +45,7 @@
       <point x="54" y="0" type="line"/>
     </contour>
   </outline>
-  <guideline angle="90" x="439.5" y="0"/>
+  <guideline angle="90" x="440" y="0"/>
   <lib>
   <dict>
   <key>com.fontlab.caretAnchors</key>

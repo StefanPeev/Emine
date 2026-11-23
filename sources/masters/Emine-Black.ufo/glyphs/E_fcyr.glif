@@ -3,7 +3,6 @@
   <advance width="860"/>
   <unicode hex="0424"/>
   <outline>
-    <component base="I" xOffset="259"/>
     <contour>
       <point x="360" y="70" type="curve"/>
       <point x="360" y="240" type="line"/>
@@ -36,6 +35,12 @@
       <point x="590" y="240"/>
       <point x="500" y="240" type="curve"/>
     </contour>
+    <contour>
+      <point x="535" y="0" type="line"/>
+      <point x="535" y="730" type="line"/>
+      <point x="325" y="730" type="line"/>
+      <point x="325" y="0" type="line"/>
+    </contour>
   </outline>
   <guideline angle="90" x="430" y="0"/>
   <guideline angle="90" x="430" y="0"/>
@@ -49,6 +54,24 @@
   <string>=O</string>
   <key>com.fontlab.recipe</key>
   <string>O+I</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>54f89cc3319214a7cf816157ef4b5ac6c1fbcc53a7f7db5d3fbd6f6e2ff787522605f708a0244b6e913d8be0d8b831f91be84e95934da446d28bf5c643fb23f8</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 21 -21</string>
+          <string>hstem 730 -20</string>
+          <string>vstem 325 210</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>

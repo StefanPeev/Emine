@@ -3,7 +3,17 @@
   <advance width="543"/>
   <unicode hex="0443"/>
   <outline>
-    <component base="y"/>
+    <contour>
+      <point x="240" y="-210" type="line"/>
+      <point x="538" y="520" type="line"/>
+      <point x="422" y="520" type="line"/>
+      <point x="271" y="118" type="line"/>
+      <point x="269" y="118" type="line"/>
+      <point x="124" y="520" type="line"/>
+      <point x="8" y="520" type="line"/>
+      <point x="216" y="5" type="line"/>
+      <point x="126" y="-210" type="line"/>
+    </contour>
   </outline>
   <lib>
   <dict>
@@ -11,6 +21,23 @@
   <true/>
   <key>com.fontlab.recipe</key>
   <string>y%</string>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w543m240,-210l538,520l422,520l271,118l269,118l124,520l8,520l216,5l126,-210</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 520 -20</string>
+          <string>vstem 8 530</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
   </dict>
   </lib>
 </glyph>
